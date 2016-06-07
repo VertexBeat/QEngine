@@ -1,0 +1,3 @@
+playerBlue_up1 = 47 0 45 54
+playerBlue_up2 = 0 41 45 50
+playerBlue_up3 = 0 0 46 40

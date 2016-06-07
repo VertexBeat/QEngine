@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="10" tilewidth="128" tileheight="128" nextobjectid="91">
+ <tileset firstgid="1" name="Map" tilewidth="282" tileheight="301" tilecount="31" columns="0">
+  <tile id="0">
+   <image source="assets/Tiles/1.png"/>
+  </tile>
+  <tile id="1">
+   <image source="assets/Tiles/2.png"/>
+  </tile>
+  <tile id="2">
+   <image source="assets/Tiles/3.png"/>
+  </tile>
+  <tile id="3">
+   <image source="assets/Tiles/4.png"/>
+  </tile>
+  <tile id="4">
+   <image source="assets/Tiles/5.png"/>
+  </tile>
+  <tile id="5">
+   <image source="assets/Tiles/6.png"/>
+  </tile>
+  <tile id="6">
+   <image source="assets/Tiles/7.png"/>
+  </tile>
+  <tile id="7">
+   <image source="assets/Tiles/8.png"/>
+  </tile>
+  <tile id="8">
+   <image source="assets/Tiles/9.png"/>
+  </tile>
+  <tile id="9">
+   <image source="assets/Tiles/10.png"/>
+  </tile>
+  <tile id="10">
+   <image source="assets/Tiles/11.png"/>
+  </tile>
+  <tile id="11">
+   <image source="assets/Tiles/12.png"/>
+  </tile>
+  <tile id="12">
+   <image source="assets/Tiles/13.png"/>
+  </tile>
+  <tile id="13">
+   <image source="assets/Tiles/14.png"/>
+  </tile>
+  <tile id="14">
+   <image source="assets/Tiles/15.png"/>
+  </tile>
+  <tile id="15">
+   <image source="assets/Tiles/16.png"/>
+  </tile>
+  <tile id="16">
+   <image source="assets/Tiles/17.png"/>
+  </tile>
+  <tile id="17">
+   <image source="assets/Tiles/18.png"/>
+  </tile>
+  <tile id="18">
+   <image source="assets/Object/Bush (1).png"/>
+  </tile>
+  <tile id="19">
+   <image source="assets/Object/Bush (2).png"/>
+  </tile>
+  <tile id="20">
+   <image source="assets/Object/Bush (3).png"/>
+  </tile>
+  <tile id="21">
+   <image source="assets/Object/Bush (4).png"/>
+  </tile>
+  <tile id="22">
+   <image source="assets/Object/Crate.png"/>
+  </tile>
+  <tile id="23">
+   <image source="assets/Object/Mushroom_1.png"/>
+  </tile>
+  <tile id="24">
+   <image source="assets/Object/Mushroom_2.png"/>
+  </tile>
+  <tile id="25">
+   <image source="assets/Object/Sign_1.png"/>
+  </tile>
+  <tile id="26">
+   <image source="assets/Object/Sign_2.png"/>
+  </tile>
+  <tile id="27">
+   <image source="assets/Object/Stone.png"/>
+  </tile>
+  <tile id="28">
+   <image source="assets/Object/Tree_1.png"/>
+  </tile>
+  <tile id="29">
+   <image source="assets/Object/Tree_2.png"/>
+  </tile>
+  <tile id="30">
+   <image source="assets/Object/Tree_3.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="32" name="set4_tiles" tilewidth="640" tileheight="480" tilecount="1" columns="0">
+  <tile id="0">
+   <image source="assets/Backgrounds/set2_tiles.png"/>
+  </tile>
+ </tileset>
+ <objectgroup name="background">
+  <object id="62" name="background" gid="32" x="0" y="1280" width="1920" height="1280">
+   <properties>
+    <property name="texture" value="background"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="tiles">
+  <object id="1" name="ground_tile" gid="5" x="0" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="2" name="ground_tile" gid="5" x="128" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="3" name="ground_tile" gid="5" x="256" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="4" name="ground_tile" gid="5" x="384" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="5" name="ground_tile" gid="5" x="512" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="12" name="ground_tile" gid="5" x="1280" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="13" name="ground_tile" gid="5" x="1408" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="14" name="ground_tile" gid="5" x="1536" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="15" name="ground_tile" gid="5" x="1664" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="16" name="ground_tile" gid="5" x="1792" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_tile"/>
+   </properties>
+  </object>
+  <object id="17" name="gras_tile" gid="2" x="0" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="18" name="gras_tile" gid="2" x="128" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="19" name="gras_tile" gid="2" x="256" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="20" name="gras_tile" gid="2" x="384" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="21" name="gras_tile" gid="2" x="512" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="23" name="water_tile" gid="18" x="768" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="water_tile"/>
+   </properties>
+  </object>
+  <object id="24" name="water_tile" gid="18" x="896" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="water_tile"/>
+   </properties>
+  </object>
+  <object id="25" name="water_tile" gid="18" x="1024" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="water_tile"/>
+   </properties>
+  </object>
+  <object id="26" name="wave_tile" gid="17" x="768" y="1152" width="128" height="99">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="wave_tile"/>
+   </properties>
+  </object>
+  <object id="27" name="wave_tile" gid="17" x="896" y="1152" width="128" height="99">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="wave_tile"/>
+   </properties>
+  </object>
+  <object id="28" name="wave_tile" gid="17" x="1024" y="1152" width="128" height="99">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="wave_tile"/>
+   </properties>
+  </object>
+  <object id="30" name="right_gras_end" gid="3" x="640" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="right_gras_end"/>
+   </properties>
+  </object>
+  <object id="31" name="left_gras_end" gid="1" x="1152" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="left_gras_end"/>
+   </properties>
+  </object>
+  <object id="32" name="gras_tile" gid="2" x="1280" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="33" name="gras_tile" gid="2" x="1408" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="34" name="gras_tile" gid="2" x="1536" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="35" name="gras_tile" gid="2" x="1664" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="36" name="gras_tile" gid="2" x="1792" y="1152" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="gras_tile"/>
+   </properties>
+  </object>
+  <object id="38" name="ground_left" gid="4" x="1152" y="1280" width="129" height="129">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_left"/>
+   </properties>
+  </object>
+  <object id="39" name="ground_right" gid="6" x="640" y="1280" width="128" height="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="ground_right"/>
+   </properties>
+  </object>
+  <object id="41" name="left_platform_tile" gid="13" x="1152" y="768" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="left_platform_tile"/>
+   </properties>
+  </object>
+  <object id="42" name="mid_platform_tile" gid="14" x="1280" y="768" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="mid_platform_tile"/>
+   </properties>
+  </object>
+  <object id="44" name="right_platform_tile" gid="15" x="1408" y="768" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="right_platform_tile"/>
+   </properties>
+  </object>
+  <object id="47" name="left_platform_tile" gid="13" x="256" y="384" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="left_platform_tile"/>
+   </properties>
+  </object>
+  <object id="48" name="mid_platform_tile" gid="14" x="384" y="384" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="mid_platform_tile"/>
+   </properties>
+  </object>
+  <object id="49" name="mid_platform_tile" gid="14" x="512" y="384" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="mid_platform_tile"/>
+   </properties>
+  </object>
+  <object id="50" name="mid_platform_tile" gid="14" x="640" y="384" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="mid_platform_tile"/>
+   </properties>
+  </object>
+  <object id="51" name="mid_platform_tile" gid="14" x="768" y="384" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="mid_platform_tile"/>
+   </properties>
+  </object>
+  <object id="52" name="right_platform_tile" gid="15" x="896" y="384" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="right_platform_tile"/>
+   </properties>
+  </object>
+  <object id="56" name="right_platform_tile" gid="15" x="960" y="1024" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="right_platform_tile"/>
+   </properties>
+  </object>
+  <object id="57" name="left_platform_tile" gid="13" x="832" y="1024" width="128" height="93">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+    <property name="texture" value="left_platform_tile"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="objects">
+  <object id="63" name="bush" gid="19" x="1312" y="1024" width="133" height="65">
+   <properties>
+    <property name="texture" value="bush"/>
+   </properties>
+  </object>
+  <object id="65" name="bush" gid="19" x="320" y="1024" width="133" height="65">
+   <properties>
+    <property name="texture" value="bush"/>
+   </properties>
+  </object>
+  <object id="66" name="bush" gid="19" x="1408" y="672" width="133" height="65">
+   <properties>
+    <property name="texture" value="bush"/>
+   </properties>
+  </object>
+  <object id="67" name="bush" gid="19" x="384" y="288" width="133" height="65">
+   <properties>
+    <property name="texture" value="bush"/>
+   </properties>
+  </object>
+  <object id="68" name="box" gid="23" x="800" y="288" width="77" height="77">
+   <properties>
+    <property name="texture" value="box"/>
+   </properties>
+  </object>
+  <object id="69" name="red_mushroom" gid="24" x="640" y="288" width="49" height="41">
+   <properties>
+    <property name="texture" value="red_mushroom"/>
+   </properties>
+  </object>
+  <object id="70" name="red_mushroom" gid="24" x="1440" y="672" width="49" height="41">
+   <properties>
+    <property name="texture" value="red_mushroom"/>
+   </properties>
+  </object>
+  <object id="71" name="red_mushroom" gid="24" x="1440" y="1024" width="49" height="41">
+   <properties>
+    <property name="texture" value="red_mushroom"/>
+   </properties>
+  </object>
+  <object id="72" name="yellow_mushroom" gid="25" x="1856" y="1024" width="50" height="41">
+   <properties>
+    <property name="texture" value="yellow_mushroom"/>
+   </properties>
+  </object>
+  <object id="73" name="yellow_mushroom" gid="25" x="544" y="1024" width="50" height="41">
+   <properties>
+    <property name="texture" value="yellow_mushroom"/>
+   </properties>
+  </object>
+  <object id="76" name="tree" gid="30" x="96" y="1024" width="282" height="301">
+   <properties>
+    <property name="texture" value="tree"/>
+   </properties>
+  </object>
+  <object id="77" name="tree" gid="30" x="1152" y="672" width="282" height="301">
+   <properties>
+    <property name="texture" value="tree"/>
+   </properties>
+  </object>
+  <object id="79" name="sign" gid="27" x="896" y="928" width="62" height="64">
+   <properties>
+    <property name="texture" value="sign"/>
+   </properties>
+  </object>
+  <object id="80" name="stump" gid="29" x="1632" y="1024" width="116" height="44">
+   <properties>
+    <property name="texture" value="stump"/>
+   </properties>
+  </object>
+  <object id="82" name="stone" gid="28" x="288" y="288" width="90" height="54">
+   <properties>
+    <property name="texture" value="stone"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

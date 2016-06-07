@@ -1,0 +1,5 @@
+playerBlue_walk1 = 0 41 45 54
+playerBlue_walk2 = 46 46 45 54
+playerBlue_walk3 = 115 0 45 52
+playerBlue_walk4 = 65 0 49 45
+playerBlue_walk5 = 0 0 64 40

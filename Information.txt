@@ -1,0 +1,27 @@
+-----------------------
+-Xbox-Controller-Keys-
+-----------------------
+isButtonPressed(0,0) -> A
+isButtonPressed(0,1) -> B
+isButtonPressed(0,2) -> X
+isButtonPressed(0,3) -> Y
+isButtonPressed(0,4) -> LB
+isButtonPressed(0,5) -> RB
+isButtonPressed(0,6) -> Back
+isButtonPressed(0,7) -> Start
+isButtonPressed(0,8) -> Left Joystick pressed
+isButtonPressed(0,9) -> Right Joystick pressed
+
+sf::Joystick::Axis::R -> Right Stick (up/down)
+sf::Joystick::Axis::U -> Right Stick (left/right)
+sf::Joystick::Axis::Z -> LT/RT value
+sf::Joystick::Axis::V -> /
+sf::Joystick::Axis::PovX -> dpad(directional pad) left/right (values -100/100)
+sf::Joystick::Axis::PovY -> dpad(directional pad) top/down (values 100/-100)
+
+
+Box2D
+
+friction -> Reibung
+density -> Dichte
+restitution -> Entzerrung
