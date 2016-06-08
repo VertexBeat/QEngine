@@ -243,3 +243,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# assets
+assets/
+Maesai - Adventure Pack/
+Maesai - Basic Pack/
+Maesai - Scary Pack/
+.vs/
