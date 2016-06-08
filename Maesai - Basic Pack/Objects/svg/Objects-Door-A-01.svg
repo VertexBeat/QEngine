@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#27272D" offset="0%"></stop>
+            <stop stop-color="#253437" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(-640.000000, -128.000000)">
+            <g id="Objects-Door-A-01" sketch:type="MSLayerGroup" transform="translate(640.000000, 128.000000)">
+                <rect id="Rectangle-3306-Copy-7" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M22,39.9964585 C22,30.0572889 30.0542731,22 39.9943315,22 L88.0056685,22 C97.9436634,22 106,30.0542305 106,39.9964585 L106,128 L65,128 L22,128 L22,39.9964585 Z" id="Rectangle-2849" fill-opacity="0.06" fill="#272C31" sketch:type="MSShapeGroup"></path>
+                <path d="M30,40.0043648 C30,34.4791067 34.4748104,30 39.9970961,30 L88.0029039,30 C93.5241476,30 98,34.4816438 98,40.0043648 L98,128 L65,128 L30,128 L30,40.0043648 Z" id="Rectangle-2849-Copy-2" fill-opacity="0.2" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+                <path d="M34.0015363,40.0051618 C33.9689366,36.6886025 36.6201308,34 39.9482967,34 L87.9942126,34 C91.3111174,34 94,36.6867874 94,40.0051618 L94,128 L34.8664707,128 L34.0015363,40.0051618 Z" id="Rectangle-2849-Copy-7" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

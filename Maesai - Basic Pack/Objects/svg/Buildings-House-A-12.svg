@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(-384.000000, -896.000000)">
+            <g id="Buildings-House-A-12" sketch:type="MSLayerGroup" transform="translate(384.000000, 896.000000)">
+                <path d="M0,7 L128,7 L128,128 L0,128 L0,7 Z M16,71.005993 C16,44.4930152 37.4845033,23 64,23 C90.509668,23 112,44.4858247 112,71.005993 L112,128 L16,128 L16,71.005993 Z" id="Rectangle-2932-Copy-8" fill="#D4D9C2" sketch:type="MSShapeGroup"></path>
+                <path d="M0,0 L128,0 L128,128 L0,128 L0,0 Z M16,64.0058015 C16,37.4929294 37.4845033,16 64,16 C90.509668,16 112,37.4953106 112,64.0058015 L112,128 L16,128 L16,64.0058015 Z" id="Rectangle-2932-Copy-2" fill="#FAFFE5" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

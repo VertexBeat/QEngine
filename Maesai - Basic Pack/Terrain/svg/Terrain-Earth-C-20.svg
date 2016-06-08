@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="terrain" sketch:type="MSArtboardGroup" transform="translate(-128.000000, -512.000000)">
+            <g id="Terrain-Earth-C-20" sketch:type="MSLayerGroup" transform="translate(128.000000, 512.000000)">
+                <rect id="Rectangle-889" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M58,74 L58,90.0079028 C58,95.5146994 62.475152,100 67.9955317,100 L104.004468,100 C109.523722,100 114,95.5263857 114,90.0079028 L114,39.9920972 C114,34.4853006 109.524848,30 104.004468,30 L74,30 L74,13.9920972 C74,8.48530063 69.5185177,4 63.9903292,4 L38.0096708,4 C35.7528136,4 33.6725745,4.74342397 32,5.99799698 L32,0 L0,0 L0,16.0034985 C0,21.5244138 4.4831571,26 9.99337167,26 L22.0066283,26 C24.2551577,26 26.3302412,25.2581576 28,24.0052016 L28,64.0079028 C28,69.5146994 32.4814823,74 38.0096708,74 L58,74 Z" id="Path-Copy-4" fill="#916442" sketch:type="MSShapeGroup"></path>
+                <path d="M128,95 L128,68 L128,0 L74.9988433,9.9475983e-14 L14.0000023,9.9475983e-14 L14,37.9960546 C13.9999997,43.5273801 18.4745838,48 23.9942634,48 L50,48 L50,48 L50,76.0085796 C50,81.5274009 54.4761168,86 59.9976867,86 L72,86 L72,99.9911289 C72,105.514786 76.475152,110 81.9955317,110 L102,110 L102,117.996055 C102,123.52738 106.475586,128 111.996501,128 L128,128 L128,95 Z" id="Path-Copy-7" fill="#AC7849" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

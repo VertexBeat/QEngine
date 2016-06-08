@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(-640.000000, -384.000000)">
+            <g id="Objects-Lamp-A" sketch:type="MSLayerGroup" transform="translate(640.000000, 384.000000)">
+                <rect id="Rectangle-3298-Copy" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M60,126.231707 L60,128 L68,128 L68,126.231707 L68,70 L60,70 L60,126.231707 Z" id="Shape-Copy" fill="#57686A" sketch:type="MSShapeGroup"></path>
+                <path d="M40.8558264,28 L87.1431318,28 L80.4410002,60.2058724 C79.3153417,65.6150197 73.9333793,70 68.4084842,70 L59.590474,70 C54.0707575,70 48.6855108,65.6241221 47.5579579,60.2058724 L40.8558264,28 Z" id="Rectangle-5139-Copy" opacity="0.795767257" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+                <path d="M86.4791667,32 L87.2143101,28.7921013 C88.2000465,24.4907061 85.9266914,19.1560148 82.135573,16.8813438 L69.1497033,9.089822 C66.3071289,7.38427734 61.6943993,7.38336043 58.8502967,9.089822 L45.864427,16.8813438 C42.0654907,19.1607056 39.7994806,24.4886426 40.7856899,28.7921013 L41.5208333,32 L86.4791667,32 Z" id="Rectangle-5139-Copy-2" fill="#57686A" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

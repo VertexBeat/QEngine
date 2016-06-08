@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="terrain" sketch:type="MSArtboardGroup" transform="translate(-128.000000, -1280.000000)">
+            <g id="Terrain-Bridge-B-02" sketch:type="MSLayerGroup" transform="translate(128.000000, 1280.000000)">
+                <rect id="Rectangle-5285" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M88.2009486,52 L45.7985246,52 C44.8695285,56.5650397 40.8372406,60 35.9903292,60 L0,60 L0,24.0096708 C0,18.4814823 4.47342884,14 10.0096708,14 L30.201576,14 L30.201576,14 C31.1309206,9.43496027 35.1634859,6 39.9923727,6 L92.0076273,6 C96.8399368,6 100.871085,9.42994113 101.799014,14 L118.009493,14 C123.527098,14 128,18.4734288 128,24.0096708 L128,60 L97.9905068,60 C93.1590996,60 89.1287039,56.5700589 88.2009486,52 Z" id="Rectangle-5274-Copy-3" fill="#5F7173" sketch:type="MSShapeGroup"></path>
+                <path d="M65.9999954,36 L98.0044683,36 C98.6878051,36 99.3551543,35.9313424 100,35.8005423 L100,35.9903292 C100,41.5265712 104.472701,46 109.990058,46 L128,46 L128,0 L104,0 L104,0 L59,0 L0,0 L0,46 L55.9939517,46 C61.5122203,46 65.994769,41.5237433 65.9999954,36 Z" id="Rectangle-5274-Copy-10" fill="#6D8183" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-782-Copy-8" fill="#8DA1A3" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="14"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

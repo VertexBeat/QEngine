@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3072px" height="1664px" viewBox="0 0 3072 1664" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Background-A</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B9FF" stop-opacity="0.0128509964" offset="0%"></stop>
+            <stop stop-color="#B00000" stop-opacity="0.337126359" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Fondos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Background-A" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-1482" fill="#008EA5" sketch:type="MSShapeGroup" x="0" y="0" width="3072" height="1664"></rect>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-132.000000, 329.000000)" fill="#252729">
+                <rect id="Rectangle-426" sketch:type="MSShapeGroup" x="132" y="728" width="3094" height="478"></rect>
+                <path d="M231,747 L1010,747 L647.820083,23.194994 C633.004878,-6.4076604 608.995048,-6.39478178 594.186914,23.2123442 L231,747 Z" id="Triangle-1-Copy-3" sketch:type="MSShapeGroup" transform="translate(620.500000, 374.000000) scale(-1, 1) translate(-620.500000, -374.000000) "></path>
+                <path d="M786,747 L1565,747 L1202.82008,23.194994 C1188.00488,-6.4076604 1163.99505,-6.39478178 1149.18691,23.2123442 L786,747 Z" id="Triangle-1-Copy" sketch:type="MSShapeGroup" transform="translate(1175.500000, 374.000000) scale(-1, 1) translate(-1175.500000, -374.000000) "></path>
+                <path d="M1789,747 L1535.17008,240.176984 C1520.35381,210.598351 1496.34226,210.611219 1481.53306,240.19432 L1227,747 L1789,747 L1789,747 Z" id="Triangle-1-Copy-4" sketch:type="MSShapeGroup" transform="translate(1508.000000, 482.500000) scale(-1, 1) translate(-1508.000000, -482.500000) "></path>
+                <path d="M562,747 L308.170077,240.176984 C293.353809,210.598351 269.342257,210.611219 254.533061,240.19432 L2.27373675e-13,747 L562,747 L562,747 Z" id="Triangle-1-Copy-5" sketch:type="MSShapeGroup" transform="translate(281.000000, 482.500000) scale(-1, 1) translate(-281.000000, -482.500000) "></path>
+                <path d="M1174,747 L920.170077,240.176984 C905.353809,210.598351 881.342257,210.611219 866.533061,240.19432 L612,747 L1174,747 L1174,747 Z" id="Triangle-1-Copy-2" sketch:type="MSShapeGroup" transform="translate(893.000000, 482.500000) scale(-1, 1) translate(-893.000000, -482.500000) "></path>
+                <path d="M1778,746.5 L2557,746.5 L2194.82008,22.694994 C2180.00488,-6.9076604 2155.99505,-6.89478178 2141.18691,22.7123442 L1778,746.5 Z" id="Triangle-1-Copy-3" sketch:type="MSShapeGroup" transform="translate(2167.500000, 373.500000) scale(-1, 1) translate(-2167.500000, -373.500000) "></path>
+                <path d="M2333,746.5 L3112,746.5 L2749.82008,22.694994 C2735.00488,-6.9076604 2710.99505,-6.89478178 2696.18691,22.7123442 L2333,746.5 Z" id="Triangle-1-Copy" sketch:type="MSShapeGroup" transform="translate(2722.500000, 373.500000) scale(-1, 1) translate(-2722.500000, -373.500000) "></path>
+                <path d="M3336,746.5 L3082.17008,239.676984 C3067.35381,210.098351 3043.34226,210.111219 3028.53306,239.69432 L2774,746.5 L3336,746.5 L3336,746.5 Z" id="Triangle-1-Copy-4" sketch:type="MSShapeGroup" transform="translate(3055.000000, 482.000000) scale(-1, 1) translate(-3055.000000, -482.000000) "></path>
+                <path d="M2109,746.5 L1855.17008,239.676984 C1840.35381,210.098351 1816.34226,210.111219 1801.53306,239.69432 L1547,746.5 L2109,746.5 L2109,746.5 Z" id="Triangle-1-Copy-5" sketch:type="MSShapeGroup" transform="translate(1828.000000, 482.000000) scale(-1, 1) translate(-1828.000000, -482.000000) "></path>
+                <path d="M2721,746.5 L2467.17008,239.676984 C2452.35381,210.098351 2428.34226,210.111219 2413.53306,239.69432 L2159,746.5 L2721,746.5 L2721,746.5 Z" id="Triangle-1-Copy-2" sketch:type="MSShapeGroup" transform="translate(2440.000000, 482.000000) scale(-1, 1) translate(-2440.000000, -482.000000) "></path>
+            </g>
+            <rect id="Rectangle-426-Copy" fill="#2B636C" sketch:type="MSShapeGroup" x="0" y="1207" width="3094" height="478"></rect>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-79.000000, 726.000000)">
+                <g id="Montaña-grande-2-Copy-4" transform="translate(0.000000, 170.000000)" sketch:type="MSShapeGroup">
+                    <path d="M108.590072,97.6087159 C128.872978,57.2366306 209.865017,56.9587884 230.07813,97.1919527 C266.051266,168.794635 337.997538,312 337.997538,312 L0.880044979,312 L108.590072,97.6087159 Z" id="Triangle-1-Copy-5" fill="#432B38"></path>
+                    <path d="M148.210028,18.4354527 C159.935727,-4.9390954 178.94812,-4.93496792 190.670774,18.435453 L229.386897,95.6203737 C229.386897,95.6203737 189.489643,95.6203735 169.541016,95.6203734 C149.524239,95.6203732 109.490687,95.620373 109.490687,95.620373 L148.210028,18.4354527 Z" id="Triangle-1-Copy-4" fill="#C4F0F3"></path>
+                </g>
+                <g id="Montaña-grande-2-Copy-7" transform="translate(512.000000, 170.000000)" sketch:type="MSShapeGroup">
+                    <path d="M108.590072,97.6087159 C128.872978,57.2366306 209.865017,56.9587884 230.07813,97.1919527 C266.051266,168.794635 337.997538,312 337.997538,312 L0.880044979,312 L108.590072,97.6087159 Z" id="Triangle-1-Copy-5" fill="#432B38"></path>
+                    <path d="M148.210028,18.4354527 C159.935727,-4.9390954 178.94812,-4.93496792 190.670774,18.435453 L229.386897,95.6203737 L169.054687,95.6203734 L109.490687,95.620373 L148.210028,18.4354527 Z" id="Triangle-1-Copy-4" fill="#C4F0F3"></path>
+                </g>
+                <g id="Montaña-grande-1-Copy-4" transform="translate(169.000000, 1.000000)" sketch:type="MSShapeGroup">
+                    <path d="M163.5855,154.192986 C194.390333,92.640482 317.397667,92.2168754 348.0965,153.557576 C402.731,262.725194 512,481.060429 512,481.060429 L0,481.060429 C0,481.060429 109.057,263.1488 163.5855,154.192986 Z" id="Triangle-1" fill="#643C2A"></path>
+                    <path d="M229.09069,23.1945494 C243.936271,-6.42500705 268.014355,-6.42286256 282.868193,23.1945482 L348.319688,153.699801 L256.818359,153.699803 C225.772344,153.699804 163.680312,153.699805 163.680312,153.699805 L229.09069,23.1945494 Z" id="Triangle-1-Copy" fill="#FFFFFF"></path>
+                </g>
+                <g id="Montaña-grande-2-Copy-8" transform="translate(1024.000000, 170.000000)" sketch:type="MSShapeGroup">
+                    <path d="M108.590072,97.6087159 C128.872978,57.2366306 209.865017,56.9587884 230.07813,97.1919527 C266.051266,168.794635 337.997538,312 337.997538,312 L0.880044979,312 L108.590072,97.6087159 Z" id="Triangle-1-Copy-5" fill="#432B38"></path>
+                    <path d="M148.210028,18.4354527 C159.935727,-4.9390954 178.94812,-4.93496792 190.670774,18.435453 L229.386897,95.6203737 L171.695312,95.6203734 C150.960437,95.6203732 109.490687,95.620373 109.490687,95.620373 L148.210028,18.4354527 Z" id="Triangle-1-Copy-4" fill="#C4F0F3"></path>
+                </g>
+                <g id="Montaña-grande-1-Copy-6" transform="translate(681.000000, 0.939571)" sketch:type="MSShapeGroup">
+                    <path d="M163.5855,154.192986 C194.390333,92.640482 317.397667,92.2168754 348.0965,153.557576 C402.731,262.725194 512,481.060429 512,481.060429 L0,481.060429 C0,481.060429 109.057,263.1488 163.5855,154.192986 Z" id="Triangle-1" fill="#643C2A"></path>
+                    <path d="M229.09069,23.1945494 C243.936271,-6.42500705 268.014355,-6.42286256 282.868193,23.1945482 L348.319688,153.699801 C348.319688,153.699801 287.41125,153.699802 256.957031,153.699803 L163.680312,153.699805 L229.09069,23.1945494 Z" id="Triangle-1-Copy" fill="#FFFFFF"></path>
+                </g>
+            </g>
+            <g id="Group-Copy" sketch:type="MSLayerGroup" transform="translate(1790.000000, 726.000000)">
+                <g id="Montaña-grande-2-Copy-4" transform="translate(0.000000, 170.000000)" sketch:type="MSShapeGroup">
+                    <path d="M108.590072,97.6087159 C128.872978,57.2366306 209.865017,56.9587884 230.07813,97.1919527 C266.051266,168.794635 337.997538,312 337.997538,312 L0.880044979,312 L108.590072,97.6087159 Z" id="Triangle-1-Copy-5" fill="#432B38"></path>
+                    <path d="M148.210028,18.4354527 C159.935727,-4.9390954 178.94812,-4.93496792 190.670774,18.435453 L229.386897,95.6203737 C229.386897,95.6203737 189.489643,95.6203735 169.541016,95.6203734 C149.524239,95.6203732 109.490687,95.620373 109.490687,95.620373 L148.210028,18.4354527 Z" id="Triangle-1-Copy-4" fill="#C4F0F3"></path>
+                </g>
+                <g id="Montaña-grande-2-Copy-7" transform="translate(512.000000, 170.000000)" sketch:type="MSShapeGroup">
+                    <path d="M108.590072,97.6087159 C128.872978,57.2366306 209.865017,56.9587884 230.07813,97.1919527 C266.051266,168.794635 337.997538,312 337.997538,312 L0.880044979,312 L108.590072,97.6087159 Z" id="Triangle-1-Copy-5" fill="#432B38"></path>
+                    <path d="M148.210028,18.4354527 C159.935727,-4.9390954 178.94812,-4.93496792 190.670774,18.435453 L229.386897,95.6203737 L169.054687,95.6203734 L109.490687,95.620373 L148.210028,18.4354527 Z" id="Triangle-1-Copy-4" fill="#C4F0F3"></path>
+                </g>
+                <g id="Montaña-grande-1-Copy-4" transform="translate(169.000000, 1.000000)" sketch:type="MSShapeGroup">
+                    <path d="M163.5855,154.192986 C194.390333,92.640482 317.397667,92.2168754 348.0965,153.557576 C402.731,262.725194 512,481.060429 512,481.060429 L0,481.060429 C0,481.060429 109.057,263.1488 163.5855,154.192986 Z" id="Triangle-1" fill="#643C2A"></path>
+                    <path d="M229.09069,23.1945494 C243.936271,-6.42500705 268.014355,-6.42286256 282.868193,23.1945482 L348.319688,153.699801 L256.818359,153.699803 C225.772344,153.699804 163.680312,153.699805 163.680312,153.699805 L229.09069,23.1945494 Z" id="Triangle-1-Copy" fill="#FFFFFF"></path>
+                </g>
+                <g id="Montaña-grande-2-Copy-8" transform="translate(1024.000000, 170.000000)" sketch:type="MSShapeGroup">
+                    <path d="M108.590072,97.6087159 C128.872978,57.2366306 209.865017,56.9587884 230.07813,97.1919527 C266.051266,168.794635 337.997538,312 337.997538,312 L0.880044979,312 L108.590072,97.6087159 Z" id="Triangle-1-Copy-5" fill="#432B38"></path>
+                    <path d="M148.210028,18.4354527 C159.935727,-4.9390954 178.94812,-4.93496792 190.670774,18.435453 L229.386897,95.6203737 C229.386897,95.6203737 191.128965,95.6203735 172,95.6203734 C151.163562,95.6203732 109.490687,95.620373 109.490687,95.620373 L148.210028,18.4354527 Z" id="Triangle-1-Copy-4" fill="#C4F0F3"></path>
+                </g>
+                <g id="Montaña-grande-1-Copy-6" transform="translate(681.000000, 0.939571)" sketch:type="MSShapeGroup">
+                    <path d="M163.5855,154.192986 C194.390333,92.640482 317.397667,92.2168754 348.0965,153.557576 C402.731,262.725194 512,481.060429 512,481.060429 L0,481.060429 C0,481.060429 109.057,263.1488 163.5855,154.192986 Z" id="Triangle-1" fill="#643C2A"></path>
+                    <path d="M229.09069,23.1945494 C243.936271,-6.42500705 268.014355,-6.42286256 282.868193,23.1945482 L348.319688,153.699801 C348.319688,153.699801 287.41125,153.699802 256.957031,153.699803 L163.680312,153.699805 L229.09069,23.1945494 Z" id="Triangle-1-Copy" fill="#FFFFFF"></path>
+                </g>
+            </g>
+            <g id="Group-+-Rectangle-1031-+-Group" sketch:type="MSLayerGroup" transform="translate(-2.000000, 968.000000)">
+                <g id="Group" transform="translate(2.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Path" fill="#6CA05B" x="615" y="46" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="663" y="46" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="591" y="65" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="639" y="30" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="749" y="108" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="797" y="108" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="700" y="81" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="773" y="91" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="725" y="65" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="125" y="116" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="174" y="185" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="77" y="140" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="101" y="127" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="149" y="99" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="15" y="135" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AE5E" x="53" y="95" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-82" fill="#76AE5E" x="0" y="155" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="274" y="57" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="322" y="57" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="226" y="103" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="251" y="82" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="299" y="36" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="206" y="171" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="504" y="134" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="552" y="134" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="455" y="169" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="481" y="152" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="529" y="117" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="408" y="140" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#6CA05B" x="360" y="111" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="385" y="88" width="39" height="800" rx="20"></rect>
+                    <rect id="Path" fill="#76AD5F" x="433" y="117" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-81" fill="#6CA05B" x="2839" y="72" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-56" fill="#6CA05B" x="2887" y="72" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-57" fill="#76AD5F" x="2814" y="91" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-58" fill="#76AD5F" x="2862" y="55" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-59" fill="#6CA05B" x="2924" y="107" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-86" fill="#6CA05B" x="3011" y="72" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-83" fill="#76AD5F" x="2986" y="91" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-84" fill="#76AD5F" x="3034" y="55" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-60" fill="#76AD5F" x="2948" y="91" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-61" fill="#6CA05B" x="2389" y="99" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-62" fill="#6CA05B" x="2341" y="124" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-63" fill="#76AD5F" x="2365" y="111" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-64" fill="#76AD5F" x="2413" y="89" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-65" fill="#6CA05B" x="2279" y="99" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-66" fill="#76AE5E" x="2317" y="79" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-67" fill="#6CA05B" x="2499" y="116" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-68" fill="#6CA05B" x="2547" y="126" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-69" fill="#6CA05B" x="2451" y="99" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-70" fill="#76AD5F" x="2475" y="108" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-71" fill="#76AD5F" x="2523" y="101" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-72" fill="#6CA05B" x="2728" y="159" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-73" fill="#6CA05B" x="2776" y="120" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-74" fill="#6CA05B" x="2681" y="194" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-75" fill="#76AD5F" x="2705" y="178" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-76" fill="#76AD5F" x="2752" y="142" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-77" fill="#6CA05B" x="2632" y="166" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-78" fill="#6CA05B" x="2584" y="137" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-79" fill="#76AD5F" x="2608" y="120" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-80" fill="#76AD5F" x="2656" y="142" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-31" fill="#6CA05B" x="1432" y="99" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy" fill="#6CA05B" x="1480" y="99" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-2" fill="#76AD5F" x="1407" y="118" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-3" fill="#76AD5F" x="1455" y="83" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-4" fill="#6CA05B" x="1566" y="138" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-5" fill="#6CA05B" x="1614" y="167" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-6" fill="#6CA05B" x="1517" y="137" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-7" fill="#76AD5F" x="1589" y="151" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-8" fill="#76AD5F" x="1541" y="118" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-9" fill="#6CA05B" x="944" y="116" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-10" fill="#6CA05B" x="994" y="185" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-11" fill="#6CA05B" x="895" y="140" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-12" fill="#76AD5F" x="919" y="127" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-13" fill="#76AD5F" x="967" y="99" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-14" fill="#6CA05B" x="833" y="115" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-15" fill="#76AE5E" x="871" y="95" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-16" fill="#6CA05B" x="1093" y="87" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-17" fill="#6CA05B" x="1141" y="87" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-18" fill="#6CA05B" x="1045" y="134" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-19" fill="#76AD5F" x="1069" y="112" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-20" fill="#76AD5F" x="1117" y="66" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-21" fill="#76AD5F" x="1019" y="142" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-22" fill="#6CA05B" x="1323" y="134" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-23" fill="#6CA05B" x="1371" y="134" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-24" fill="#6CA05B" x="1275" y="169" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-25" fill="#76AD5F" x="1299" y="152" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-26" fill="#76AD5F" x="1347" y="127" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-27" fill="#6CA05B" x="1227" y="140" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-28" fill="#6CA05B" x="1179" y="140" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-29" fill="#76AD5F" x="1203" y="118" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-30" fill="#76AD5F" x="1251" y="147" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-55" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="2061" y="39" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-32" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="2109" y="78" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-33" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="2036" y="19" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-34" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="2084" y="62" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-35" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="2194" y="45" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-36" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="2242" y="68" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-37" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="2145" y="58" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-38" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="2217" y="51" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-39" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="2169" y="36" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-40" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="1723" y="129" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-41" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="1771" y="129" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-42" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="1675" y="176" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-43" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="1699" y="153" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-44" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="1747" y="108" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-45" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="1649" y="184" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-46" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="1952" y="72" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-47" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="2000" y="0" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-48" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="1904" y="93" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-49" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="1928" y="103" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-50" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="1976" y="27" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-51" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="1856" y="151" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-52" stroke="#979797" stroke-width="0.5" fill="#6CA05B" x="1808" y="139" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-53" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="1832" y="159" width="39" height="800" rx="20"></rect>
+                    <rect id="Path-Copy-54" stroke="#979797" stroke-width="0.5" fill="#76AD5F" x="1880" y="136" width="39" height="800" rx="20"></rect>
+                </g>
+                <rect id="Rectangle-1031" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="2" y="159" width="3072" height="217"></rect>
+                <g id="Group" transform="translate(0.000000, 159.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Path" fill="#9BCA6A" x="1729" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1793" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1697" y="150" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1761" y="105" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1909" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1973" y="92" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1845" y="171" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1877" y="150" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1941" y="71" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2025" y="167" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2089" y="200" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1877" y="150" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2057" y="168" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1273" y="122" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1338" y="122" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1209" y="167" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1241" y="146" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1305" y="101" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1241" y="146" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1581" y="59" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1645" y="116" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1517" y="104" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1549" y="83" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1613" y="85" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1453" y="67" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1389" y="30" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1421" y="0" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1485" y="38" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2659" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2723" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2626" y="150" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2691" y="105" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2839" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2903" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2773" y="171" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2807" y="150" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2871" y="105" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2967" y="217" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2807" y="150" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2935" y="179" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="3023" y="167" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2999" y="179" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2203" y="122" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2267" y="122" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2139" y="167" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2171" y="146" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2235" y="101" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2171" y="146" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2511" y="59" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2575" y="59" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2447" y="104" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2479" y="83" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2543" y="38" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2383" y="67" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="2317" y="30" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2351" y="0" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="2415" y="38" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="800" y="53" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="864" y="53" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="768" y="77" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="832" y="32" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="979" y="131" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1043" y="131" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="914" y="98" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="947" y="155" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1011" y="110" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1093" y="183" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="1158" y="183" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="947" y="77" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="1126" y="163" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="147" y="142" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="214" y="211" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="83" y="186" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="115" y="166" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="179" y="121" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="0" y="147" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="50" y="115" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="346" y="67" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="410" y="67" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="282" y="126" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="314" y="98" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="378" y="39" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="248" y="176" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="179" y="121" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="653" y="165" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="717" y="165" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="589" y="210" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="621" y="189" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="685" y="144" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="525" y="174" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#9BCA6A" x="461" y="136" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="493" y="106" width="52" height="600" rx="26"></rect>
+                    <rect id="Path" fill="#B8E986" x="557" y="144" width="52" height="600" rx="26"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle-2951" fill-opacity="0.351732337" fill="#710037" sketch:type="MSShapeGroup" x="0" y="0" width="3072" height="1664"></rect>
+            <g id="Group-Copy-6" sketch:type="MSLayerGroup" transform="translate(737.000000, 367.000000)" fill="#FFFFFF">
+                <path d="M534,96 L534,108.007627 C534,113.523281 538.474874,118 543.994912,118 L570,118 L570,134.000799 C570,139.523831 574.479107,144 580.004365,144 L657.995635,144 C663.518356,144 668,139.523205 668,134.000799 L668,118 L766.005088,118 C771.514387,118 776,113.526262 776,108.007627 L776,55.9923727 C776,50.4767188 771.525126,46 766.005088,46 L712,46 L712,31.9992012 C712,26.476169 707.525056,22 702.004932,22 L447.995068,22 C442.470854,22 438,26.4767949 438,31.9992012 L438,86.0007988 C438,91.523831 442.474944,96 447.995068,96 L534,96 Z" id="Rectangle-256-Copy-2" sketch:type="MSShapeGroup"></path>
+                <path d="M1330.49476,176 L1356,176 L1356,166.003945 C1356,160.478919 1360.48561,156 1365.99491,156 L1588.00509,156 C1593.52513,156 1598,160.47262 1598,166.003945 L1598,193.996055 C1598,199.521081 1593.51439,204 1588.00509,204 L1524,204 L1524,240.000799 C1524,245.523205 1519.53031,250 1514.00099,250 L1319.99901,250 C1314.47671,250 1310,245.523831 1310,240.000799 L1310,214 L1266.00948,214 C1260.4814,214 1256,209.529174 1256,203.991103 L1256,186.008897 C1256,180.481136 1260.48633,176 1266.00948,176 L1330.49476,176 Z" id="Rectangle-256-Copy-5" sketch:type="MSShapeGroup"></path>
+                <path d="M362,162 L362,172.000799 C362,177.523831 366.479107,182 372.004365,182 L449.995635,182 C455.518356,182 460,177.523205 460,172.000799 L460,162 L514.004932,162 C519.529146,162 524,157.523205 524,152.000799 L524,136 L573.99436,136 C579.516163,136 584,131.526262 584,126.007627 L584,73.9923727 C584,68.4767188 579.520322,64 573.99436,64 L396.00564,64 C390.483837,64 386,68.4737376 386,73.9923727 L386,88 L259.995068,88 C254.470854,88 250,92.4767949 250,97.9992012 L250,152.000799 C250,157.523831 254.474944,162 259.995068,162 L362,162 Z" id="Rectangle-256-Copy-3" fill-opacity="0.4" sketch:type="MSShapeGroup"></path>
+                <path d="M1038,82 L1038,116.007627 C1038,121.523281 1042.47942,126 1048.00507,126 L1237.99493,126 C1243.5167,126 1248,121.526262 1248,116.007627 L1248,104 L1317.99564,104 C1323.51836,104 1328,99.519854 1328,93.9933138 L1328,72.0066862 C1328,66.4748366 1323.52089,62 1317.99564,62 L1276,62 L1276,49.9980749 C1276,44.4811691 1271.52712,40 1266.00954,40 L1205.99046,40 C1200.47257,40 1196,44.4762906 1196,49.9980749 L1196,54 L1196,54 L1122,54 L1122,37.9988798 C1122,32.476505 1117.52409,28 1112.00278,28 L987.997221,28 C982.467539,28 978,32.476651 978,37.9988798 L978,72.0011202 C978,77.523495 982.475908,82 987.997221,82 L1038,82 Z" id="Rectangle-256-Copy" sketch:type="MSShapeGroup"></path>
+                <path d="M876,150 L876,153.999936 C876,159.525267 880.479423,164 886.005072,164 L1075.99493,164 C1081.5167,164 1086,159.522819 1086,153.999936 L1086,142 L1159.99564,142 C1165.51836,142 1170,137.519854 1170,131.993314 L1170,110.006686 C1170,104.474837 1165.52089,100 1159.99564,100 L1118,100 L1118,87.9980749 C1118,82.4811691 1113.52712,78 1108.00954,78 L1086,78 L1086,78 L1086,74.0000638 C1086,68.4747329 1081.52058,64 1075.99493,64 L886.005072,64 C880.483302,64 876,68.4771811 876,74.0000638 L876,96 L829.997221,96 C824.467539,96 820,100.476651 820,105.99888 L820,140.00112 C820,145.523495 824.475908,150 829.997221,150 L876,150 Z" id="Rectangle-256-Copy-4" fill-opacity="0.4" sketch:type="MSShapeGroup" transform="translate(995.000000, 114.000000) scale(-1, 1) translate(-995.000000, -114.000000) "></path>
+                <rect id="Rectangle" sketch:type="MSShapeGroup" x="954" y="150" width="102" height="40" rx="10"></rect>
+                <rect id="Rectangle-Copy-3" sketch:type="MSShapeGroup" x="308" y="136" width="98" height="36" rx="10"></rect>
+                <rect id="Rectangle-Copy" fill-opacity="0.4" sketch:type="MSShapeGroup" x="630" y="130" width="90" height="36" rx="10"></rect>
+                <rect id="Rectangle-Copy-2" fill-opacity="0.4" sketch:type="MSShapeGroup" x="0" y="110" width="120" height="38" rx="10"></rect>
+                <path d="M686,214 L622.001799,214 C616.468833,214 612,218.476651 612,223.99888 L612,258.00112 C612,263.523495 616.477958,268 622.001799,268 L751.998201,268 C757.531167,268 762,263.523349 762,258.00112 L762,240 L807.997336,240 C813.532487,240 818,235.518518 818,229.990329 L818,204.009671 C818,198.473429 813.521655,194 807.997336,194 L696.002664,194 C690.467513,194 686,198.481482 686,204.009671 L686,214 Z" id="Rectangle-2953" sketch:type="MSShapeGroup"></path>
+                <path d="M212,200 L212,179.99888 C212,174.476505 207.523538,170 202.001543,170 L91.998457,170 C86.4748943,170 82,174.476651 82,179.99888 L82,214.00112 C82,219.523495 86.4764617,224 91.998457,224 L124,224 L124,227.991103 C124,233.529174 128.478345,238 134.002664,238 L245.997336,238 C251.532487,238 256,233.518864 256,227.991103 L256,210.008897 C256,204.470826 251.521655,200 245.997336,200 L212,200 Z" id="Rectangle-2953-Copy" fill-opacity="0.4" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-Copy-4" fill-opacity="0.4" sketch:type="MSShapeGroup" x="1297" y="40" width="120" height="38" rx="10"></rect>
+                <path d="M1405.99577,190 L1477.99128,190 C1483.53265,190 1488,185.524148 1488,180.002904 L1488,131.997096 C1488,126.47481 1483.51894,122 1477.99128,122 L1338.00872,122 C1332.46735,122 1328,126.475852 1328,131.997096 L1328,156 L1297.99906,156 C1292.48513,156 1288,160.481136 1288,166.008897 L1288,183.991103 C1288,189.529174 1292.47673,194 1297.99906,194 L1398.00094,194 C1401.2657,194 1404.16979,192.42903 1405.99577,190 Z" id="Rectangle-Copy-5" fill-opacity="0.4" sketch:type="MSShapeGroup"></path>
+                <path d="M792,29 L792,9.99887985 C792,4.47650502 787.523538,0 782.001543,0 L671.998457,0 C666.474894,0 662,4.47665099 662,9.99887985 L662,44.0011202 C662,49.523495 666.476462,54 671.998457,54 L704,54 L704,56.991103 C704,62.5291744 708.478345,67 714.002664,67 L825.997336,67 C831.532487,67 836,62.5188642 836,56.991103 L836,39.008897 C836,33.4708256 831.521655,29 825.997336,29 L792,29 Z" id="Rectangle-2953-Copy-2" fill-opacity="0.4" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

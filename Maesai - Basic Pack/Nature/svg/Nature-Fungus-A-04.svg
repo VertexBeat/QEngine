@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EDEAAA" offset="0%"></stop>
+            <stop stop-color="#F3F5D9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-1024.000000, -128.000000)">
+            <g id="Nature-Fungus-A-04" sketch:type="MSLayerGroup" transform="translate(1024.000000, 128.000000)">
+                <rect id="Rectangle-944" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <g id="Arbol-chico-Copy-8" transform="translate(34.000000, 37.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-1" fill="url(#linearGradient-1)" x="22" y="41" width="16" height="50"></rect>
+                    <rect id="Rectangle-1-Copy-29" fill="#DFDD97" x="22" y="41" width="16" height="8"></rect>
+                    <path d="M30,43.6996785 C46.5685425,43.6996785 60,46.9023673 60,30.3338248 C60,13.7652823 46.5685425,0.333824828 30,0.333824828 C13.4314575,0.333824828 0,13.7652823 0,30.3338248 C0,46.9023673 13.4314575,43.6996785 30,43.6996785 Z" id="Oval-113-Copy-4" fill="#53C1C4"></path>
+                    <path d="M21.2940952,16.8296291 C24.4948918,15.9719783 26.510264,13.1144162 25.795555,10.4470857 C25.0808459,7.77975521 21.9067014,6.31272 18.7059048,7.17037087 C15.5051082,8.02802174 13.489736,10.8855838 14.204445,13.5529143 C14.9191541,16.2202448 18.0932986,17.68728 21.2940952,16.8296291 Z M39.3742621,14.9507534 C42.6471734,15.4691316 45.5805446,14.1205476 45.92613,11.9386068 C46.2717155,9.75666596 43.8986491,7.56762485 40.6257379,7.04924664 C37.3528266,6.53086842 34.4194554,7.87945238 34.07387,10.0613932 C33.7282845,12.243334 36.1013509,14.4323751 39.3742621,14.9507534 Z M10,35 C12.209139,35 14,32.7614237 14,30 C14,27.2385763 12.209139,25 10,25 C7.790861,25 6,27.2385763 6,30 C6,32.7614237 7.790861,35 10,35 Z M51.6257379,24.9507534 C53.2621935,24.6915643 54.3086505,22.7126374 53.963065,20.5306966 C53.6174795,18.3487558 52.0107178,16.7900575 50.3742621,17.0492466 C48.7378065,17.3084357 47.6913495,19.2873626 48.036935,21.4693034 C48.3825205,23.6512442 49.9892822,25.2099425 51.6257379,24.9507534 Z M32,35 C36.418278,35 40,31.418278 40,27 C40,22.581722 36.418278,19 32,19 C27.581722,19 24,22.581722 24,27 C24,31.418278 27.581722,35 32,35 Z" id="Oval-420" fill="#26676E"></path>
+                </g>
+                <g id="Arbol-chico-Copy-7" transform="translate(17.000000, 76.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-1" fill="url(#linearGradient-1)" x="17" y="32" width="12" height="20"></rect>
+                    <rect id="Rectangle-1-Copy-25" fill="#DFDD97" x="17" y="30" width="12" height="8"></rect>
+                    <path d="M23,33.8059208 C35.7025492,33.8059208 46,36.3025821 46,23.3865482 C46,10.4705143 35.7025492,0 23,0 C10.2974508,0 0,10.4705143 0,23.3865482 C0,36.3025821 10.2974508,33.8059208 23,33.8059208 Z" id="Oval-113-Copy-4" fill="#26676E"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

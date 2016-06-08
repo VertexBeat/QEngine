@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-1152.000000, 0.000000)">
+            <g id="Nature-Roots-03" sketch:type="MSLayerGroup" transform="translate(1152.000000, 0.000000)">
+                <rect id="Mask" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M39.80898,-1.9095836e-14 C37.628118,5.05046439 36.6180836,11.3632005 37.1320872,17.6552867 L37.1320872,17.6552867 C36.9974039,17.9066243 36.8876907,18.1763209 36.8070596,18.4620743 C36.0994244,20.969903 32.5652261,24.8797425 29.7784145,26.1792541 C27.7762546,27.1128766 26.9100339,29.4927984 27.8436564,31.4949583 C28.7772789,33.4971182 31.1572007,34.3633389 33.1593606,33.4297164 C35.3825906,32.3930072 37.6775621,30.6209443 39.6393436,28.5377815 C42.2352103,35.0755284 46.7318802,40.723641 53.0963315,44.823994 C54.9534268,46.0204438 57.4288142,45.4848848 58.625264,43.6277895 C59.8217138,41.7706942 59.2861548,39.2953068 57.4290595,38.098857 C50.0971892,33.3752359 46.0015957,26.0455091 45.1556527,17.5568889 C44.4728401,10.7052006 46.1063526,3.83196213 48.9246272,-2.13162821e-14 L39.80898,1.53210777e-14 L39.80898,-1.9095836e-14 Z" id="Shape" fill="#C99951" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

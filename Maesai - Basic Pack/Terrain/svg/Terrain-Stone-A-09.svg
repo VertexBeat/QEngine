@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="terrain" sketch:type="MSArtboardGroup" transform="translate(-896.000000, -896.000000)">
+            <g id="Terrain-Stone-A-09" sketch:type="MSLayerGroup" transform="translate(896.000000, 896.000000)">
+                <rect id="Rectangle-782" fill="#B8E986" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="40" rx="10"></rect>
+                <rect id="Rectangle-780" fill="#9BCA6A" sketch:type="MSShapeGroup" x="14" y="16" width="100" height="20" rx="10"></rect>
+                <rect id="Rectangle-20-Copy-12" fill="#6D8183" sketch:type="MSShapeGroup" x="0" y="26" width="128" height="67"></rect>
+                <g id="Rectangle-20-Copy-81-+-Rectangle-20-Copy-88-+-Rectangle-20-Copy-63-Copy-Copy-Copy-Copy-Copy" transform="translate(0.000000, 86.000000)" sketch:type="MSShapeGroup">
+                    <path d="M14,31.991103 C14,37.5188642 18.4747329,42 24.0000638,42 L103.999936,42 C109.522819,42 114,37.5291744 114,31.991103 L114,4 L14,4 L14,31.991103 Z" id="Rectangle-20-Copy-81" fill="#5F7173"></path>
+                    <path d="M28,31.991103 C28,37.5188642 32.4767188,42 37.9923727,42 L90.0076273,42 C95.5262624,42 100,37.5291744 100,31.991103 L100,4 L28,4 L28,31.991103 Z" id="Rectangle-20-Copy-88" fill="#6D8183"></path>
+                    <path d="M0,18.0099418 C0,23.5272986 4.48053479,28 9.99063018,28 L118.00937,28 C123.527043,28 128,23.5323558 128,18.0099418 L128,0 L0,0 L0,18.0099418 Z" id="Rectangle-20-Copy-63" fill="#6D8183"></path>
+                </g>
+                <rect id="Rectangle-20-Copy-14" fill="#5F7173" sketch:type="MSShapeGroup" x="0" y="26" width="128" height="6"></rect>
+                <rect id="Rectangle-20-Copy-29" fill="#5F7173" sketch:type="MSShapeGroup" x="110" y="26" width="18" height="18" rx="10"></rect>
+                <rect id="Rectangle-20-Copy-59" fill="#5F7173" sketch:type="MSShapeGroup" x="0" y="26" width="18" height="18" rx="10"></rect>
+                <rect id="Rectangle-20-Copy-40" fill="#B8E986" sketch:type="MSShapeGroup" transform="translate(7.000000, 25.000000) scale(-1, 1) translate(-7.000000, -25.000000) " x="0" y="12" width="14" height="26" rx="10"></rect>
+                <rect id="Rectangle-20-Copy-58" fill="#B8E986" sketch:type="MSShapeGroup" transform="translate(121.000000, 25.000000) scale(-1, 1) translate(-121.000000, -25.000000) " x="114" y="12" width="14" height="26" rx="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

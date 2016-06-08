@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="terrain" sketch:type="MSArtboardGroup" transform="translate(-768.000000, -1536.000000)">
+            <g id="Terrain-Stone-C-18" sketch:type="MSLayerGroup" transform="translate(768.000000, 1536.000000)">
+                <rect id="Rectangle-782" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="40"></rect>
+                <rect id="Rectangle-20-Copy-63" fill="#6D8183" sketch:type="MSShapeGroup" x="0" y="30" width="128" height="40"></rect>
+                <g id="Group-Copy" transform="translate(0.000000, 4.000000)" sketch:type="MSShapeGroup">
+                    <path d="M74,20 C74,15.581722 77.5849106,12 81.9969413,12 L128,12 L128,28 L74,28 L74,20 Z M40,20 C40,15.581722 43.5755992,12 47.9907535,12 L52.0092465,12 C56.4224178,12 60,15.5907123 60,20 L60,28 L40,28 L40,20 Z M0,12 L18.0047247,12 C22.4203933,12 26,15.5907123 26,20 L26,28 L0,28 L0,12 Z" id="Rectangle-8-Copy-3" fill="#DFDFDF"></path>
+                    <rect id="Rectangle-20-Copy-35" fill="#5F7173" x="0" y="22" width="128" height="6"></rect>
+                    <path d="M24,22 L42,22 L42,31 C42,35.9705627 37.9716556,40 33,40 C28.0294373,40 24,35.9716556 24,31 L24,22 Z M58,22 L76,22 L76,31 C76,35.9705627 71.9716556,40 67,40 C62.0294373,40 58,35.9716556 58,31 L58,22 Z" id="Rectangle-20-Copy-78" fill="#5F7173"></path>
+                    <path d="M74,7.00359653 C74,3.13561697 70.8581267,0 67,0 C63.1340068,0 60,3.13769531 60,7.00359653 L60,26.9964035 C60,30.864383 63.1418733,34 67,34 C70.8659932,34 74,30.8623047 74,26.9964035 L74,7.00359653 Z M40,7.00359653 C40,3.13561697 36.8581267,0 33,0 C29.1340068,0 26,3.13769531 26,7.00359653 L26,26.9964035 C26,30.864383 29.1418733,34 33,34 C36.8659932,34 40,30.8623047 40,26.9964035 L40,7.00359653 Z" id="Rectangle-20-Copy-89" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

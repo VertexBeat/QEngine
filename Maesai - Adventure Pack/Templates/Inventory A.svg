@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1408px" height="1200px" viewBox="0 0 1408 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Inventory A</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="66.8697917%" id="linearGradient-1">
+            <stop stop-color="#13585A" offset="0%"></stop>
+            <stop stop-color="#0E324C" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#00FFE9" stop-opacity="0.05" offset="0%"></stop>
+            <stop stop-color="#2F4543" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Inventory-A" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-1138" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="1408" height="1200"></rect>
+            <rect id="Base" stroke-opacity="0.220306839" stroke="#000000" fill="#1A2528" filter="url(#filter-2)" sketch:type="MSShapeGroup" x="64" y="226" width="1278" height="856" rx="5"></rect>
+            <g id="Oval-258-Copy-2-+-Oval-258" sketch:type="MSLayerGroup" transform="translate(151.000000, 915.000000)">
+                <ellipse id="Oval-258-Copy-2" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" cx="297" cy="81.5" rx="297" ry="81.5"></ellipse>
+                <ellipse id="Oval-258" fill-opacity="0.100000001" fill="#000000" sketch:type="MSShapeGroup" cx="296.5" cy="46.5" rx="188.5" ry="42.5"></ellipse>
+            </g>
+            <g id="Title-1" sketch:type="MSLayerGroup" transform="translate(368.000000, 152.000000)">
+                <g id="Group" transform="translate(332.000000, 60.000000) scale(1, -1) translate(-332.000000, -60.000000) " sketch:type="MSShapeGroup">
+                    <g id="Rectangle-10-Copy-+-Rectangle-12" transform="translate(527.897959, 0.000000)">
+                        <path d="M0,0 L135.102041,0 L112.585034,45 L135.102041,90 L0,90 L0,0 Z" id="Rectangle-10-Copy" fill="#C97001"></path>
+                        <path d="M0,0 L28.521542,28.5 L28.521542,102 L0,73.5 L0,0 Z" id="Rectangle-12" fill="#7A3636"></path>
+                    </g>
+                    <g id="Rectangle-10-Copy-+-Rectangle-12-Copy" transform="translate(68.102041, 51.000000) scale(-1, 1) translate(-68.102041, -51.000000) translate(0.102041, 0.000000)">
+                        <path d="M0,0 L135.102041,0 L112.585034,45 L135.102041,90 L0,90 L0,0 Z" id="Rectangle-10-Copy" fill="#C97001"></path>
+                        <path d="M0,0 L28.521542,28.5 L28.521542,102 L0,73.5 L0,0 Z" id="Rectangle-12" fill="#7A3636"></path>
+                    </g>
+                    <rect id="Rectangle-10" fill="#FF9900" x="107.580499" y="30" width="450.340136" height="90"></rect>
+                </g>
+                <text id="INVENTORY" sketch:type="MSTextLayer" font-family="Gotham" font-size="42" font-weight="313" sketch:alignment="middle" fill="#CC4B2B">
+                    <tspan x="201.745" y="59">INVENTORY</tspan>
+                </text>
+            </g>
+            <g id="G-shape" sketch:type="MSLayerGroup" transform="translate(285.000000, 501.000000)" fill="#2A3231">
+                <path d="M86.915846,163.924272 L74.9657272,141.529712 C70.1056997,132.422005 72.8500589,120.005779 81.1935954,113.91575 L91.5639824,106.59989 C131.076756,86.5171197 196.725408,83.0421951 234.604067,106.809536 L244.957132,114.031143 C253.292989,120.110476 256.111014,132.421428 251.25068,141.529712 L239.300565,163.924272 L227.038314,295.371808 C226.078579,305.659874 216.921905,314 206.594782,314 L119.621623,314 C109.290707,314 100.138181,305.66368 99.1780914,295.371808 L86.915846,163.924272 Z" id="Rectangle-1115" sketch:type="MSShapeGroup"></path>
+                <path d="M125.965248,29.3465127 C127.610758,13.4150237 141.937755,0.5 157.939757,0.5 L169.027679,0.5 C185.041203,0.5 199.355938,13.4078542 201.002189,29.3465127 L203.4175,52.7310531 C205.664179,74.4829286 189.756065,92.1163077 167.892347,92.1163077 L159.075089,92.1163077 C137.20841,92.1163077 121.303676,74.4788839 123.549936,52.7310531 L125.965248,29.3465127 Z" id="Rectangle-1118" sketch:type="MSShapeGroup"></path>
+                <path d="M133.827508,75 L192.794833,75 L195.794833,108 L130.827508,108 L133.827508,75 Z" id="Rectangle-1159" sketch:type="MSShapeGroup"></path>
+                <g id="Rectangle-1116-+-Rectangle-1116-Copy-+-Rectangle-1119" transform="translate(0.000000, 113.129771)" sketch:type="MSShapeGroup">
+                    <path d="M68.1942587,264.24314 C67.5346879,249.677784 70.0164343,226.450872 73.7423294,212.345697 L95,131.87023 L153.999997,200.87023 L153.999997,200.87023 C146.268011,205.288508 135.908884,222.551038 130.861556,239.429461 L104.294616,328.270132 C102.901169,332.929862 97.826443,336.707319 92.9680422,336.707319 L86.8676983,336.707319 C78.3669284,336.707319 71.1636375,329.816176 70.7788228,321.318281 L68.1942587,264.24314 Z" id="Rectangle-1116"></path>
+                    <rect id="Rectangle-1124" x="63" y="318" width="33" height="19" rx="40"></rect>
+                    <g id="Rectangle-1116-Copy-+-Rectangle-1119">
+                        <path d="M8.37146139,84.3676233 C17.1173859,60.5956658 40.8431794,29.3024707 61.3772292,14.4631201 L77.0661249,3.12521913 C84.9451837,-2.56874374 91.4733125,0.695052474 91.6470581,10.4122933 L92.3070711,47.3254793 C92.4847371,57.2619802 85.8436324,69.6752717 77.4805752,75.046957 L61.2985367,85.4408615 C55.6754614,89.0526257 47.7019473,96.1935615 43.5020407,101.37474 L26.2802929,122.620202 C21.3089913,128.753006 12.4325283,129.556052 6.44196535,124.403369 L7.55582295,125.361435 C1.57071875,120.213448 -1.07234618,110.03647 1.65703442,102.617846 L8.37146139,84.3676233 Z" id="Rectangle-1116-Copy"></path>
+                        <rect id="Rectangle-1119" transform="translate(33.632874, 107.322337) rotate(-347.000000) translate(-33.632874, -107.322337) " x="26.4807006" y="91.5144791" width="14.3043478" height="31.6157161" rx="18.7"></rect>
+                    </g>
+                </g>
+                <g id="Rectangle-1116-+-Rectangle-1116-Copy-+-Rectangle-1119-Copy" transform="translate(249.000000, 281.629771) scale(-1, 1) translate(-249.000000, -281.629771) translate(172.000000, 113.129771)" sketch:type="MSShapeGroup">
+                    <path d="M68.1942587,264.24314 C67.5346879,249.677784 70.0164343,226.450872 73.7423294,212.345697 L95,131.87023 L153.999997,200.87023 L153.999997,200.87023 C146.268011,205.288508 135.908884,222.551038 130.861556,239.429461 L104.294616,328.270132 C102.901169,332.929862 97.826443,336.707319 92.9680422,336.707319 L86.8676983,336.707319 C78.3669284,336.707319 71.1636375,329.816176 70.7788228,321.318281 L68.1942587,264.24314 Z" id="Rectangle-1116"></path>
+                    <rect id="Rectangle-1124" x="63" y="318" width="33" height="19" rx="40"></rect>
+                    <g id="Rectangle-1116-Copy-+-Rectangle-1119">
+                        <path d="M8.37146139,84.3676233 C17.1173859,60.5956658 40.8431794,29.3024707 61.3772292,14.4631201 L77.0661249,3.12521913 C84.9451837,-2.56874374 91.4733125,0.695052474 91.6470581,10.4122933 L92.3070711,47.3254793 C92.4847371,57.2619802 85.8436324,69.6752717 77.4805752,75.046957 L61.2985367,85.4408615 C55.6754614,89.0526257 47.7019473,96.1935615 43.5020407,101.37474 L26.2802929,122.620202 C21.3089913,128.753006 12.4325283,129.556052 6.44196535,124.403369 L7.55582295,125.361435 C1.57071875,120.213448 -1.07234618,110.03647 1.65703442,102.617846 L8.37146139,84.3676233 Z" id="Rectangle-1116-Copy"></path>
+                        <rect id="Rectangle-1119" transform="translate(33.632874, 107.322337) rotate(-347.000000) translate(-33.632874, -107.322337) " x="26.4807006" y="91.5144791" width="14.3043478" height="31.6157161" rx="18.7"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(128.000000, 358.000000)">
+                <g id="Inventory-Placeholder-Copy-2" transform="translate(256.000000, 538.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+                <g id="Inventory-Placeholder-Copy-3" transform="translate(512.000000, 282.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+                <g id="Inventory-Placeholder-Copy-8" transform="translate(384.000000, 410.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+                <rect id="Rectangle-1017-Copy-12" fill-opacity="0.153957201" fill="#4F645B" sketch:type="MSShapeGroup" x="898" y="8" width="128" height="128" rx="16"></rect>
+                <rect id="Rectangle-1017-Copy-13" fill-opacity="0.153957201" fill="#4F645B" sketch:type="MSShapeGroup" x="1028" y="8" width="128" height="128" rx="16"></rect>
+                <path d="M896,136 L896,15.9936382 C896,7.16389868 888.83616,0 879.999116,0 L784.000884,0 C775.15611,0 768,7.16059573 768,15.9936382 L768,136 L765.999402,136 C757.157527,136 750,143.160394 750,151.993188 L750,668.006812 C750,676.845586 757.163176,684 765.999402,684 L1154.0006,684 C1162.84247,684 1170,676.839606 1170,668.006812 L1170,151.993188 C1170,143.154414 1162.83682,136 1154.0006,136 L896,136 Z" id="Rectangle-1017-Copy-10" fill-opacity="0.254189312" fill="#4F645B" sketch:type="MSShapeGroup"></path>
+                <g id="Group-Copy-3" transform="translate(768.000000, 155.000000)" stroke="#33504C" stroke-width="4" sketch:type="MSShapeGroup" stroke-linecap="round">
+                    <path d="M0.5,126 L384,127" id="Line"></path>
+                    <path d="M0.5,254 L384,255" id="Line-Copy"></path>
+                    <path d="M0.5,382 L384,383" id="Line-Copy-4"></path>
+                    <path d="M-127.5,256 L383.5,256" id="Line-Copy-3" transform="translate(128.000000, 256.000000) rotate(-90.000000) translate(-128.000000, -256.000000) "></path>
+                    <path d="M0.5,256 L511.5,256" id="Line-Copy-2" transform="translate(256.000000, 256.000000) rotate(-90.000000) translate(-256.000000, -256.000000) "></path>
+                </g>
+                <g id="Inventory-Placeholder-Copy-6" transform="translate(384.000000, 154.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+                <g id="Inventory-Placeholder-Copy-4" transform="translate(0.000000, 282.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+                <g id="Inventory-Placeholder-Copy-7" transform="translate(128.000000, 410.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+                <g id="Inventory-Placeholder-Copy" transform="translate(256.000000, 26.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+                <g id="Inventory-Placeholder-Copy-5" transform="translate(256.000000, 282.000000)" fill="#4F645B" sketch:type="MSShapeGroup" fill-opacity="0.254189312">
+                    <rect id="Rectangle-1017-Copy-10" x="0" y="0" width="128" height="128" rx="16"></rect>
+                </g>
+            </g>
+            <text id="Player" sketch:type="MSTextLayer" font-family="Gotham" font-size="48" font-weight="313" fill="#FFCF62">
+                <tspan x="128.5" y="322.752019">Player</tspan>
+            </text>
+            <g id="Items-Coin-A-+-325" sketch:type="MSLayerGroup" transform="translate(1177.000000, 246.000000)">
+                <g id="Items-Coin-A" transform="translate(16.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-4631" x="0" y="0" width="128" height="128"></rect>
+                    <g id="Oval-1112-Copy-2-+-Oval-1112-Copy-+-Oval-1112-Copy-3" transform="translate(30.000000, 34.000000)">
+                        <path d="M38.372093,0 C54.9406355,0 68.372093,13.4314575 68.372093,30 C68.372093,46.5685425 54.9406355,60 38.372093,60 L28.8139535,60 L28.8139535,58.4452269 C16.9317962,54.4542097 8.37209302,43.2267178 8.37209302,30 C8.37209302,16.7732822 16.9317962,5.54579026 28.8139535,1.55477306 L28.8139535,0 L38.372093,0 Z" id="Oval-1112-Copy-2" fill="#E8B43E"></path>
+                        <ellipse id="Oval-1112-Copy" fill="#FFCF62" cx="30" cy="30" rx="30" ry="30"></ellipse>
+                        <path d="M31.6815712,10.0696915 C31.1271619,10.0235388 30.5663298,10 30,10 C18.954305,10 10,18.954305 10,30 C10,30.5663298 10.0235388,31.1271619 10.0696915,31.6815712 L31.6815712,10.0696915 Z" id="Oval-1112-Copy-3" fill="#E8B43E"></path>
+                    </g>
+                </g>
+                <text id="0" sketch:type="MSTextLayer" font-family="Gotham" font-size="40" font-weight="260" sketch:alignment="right" fill="#FFCF62">
+                    <tspan x="0.6" y="77">0</tspan>
+                </text>
+            </g>
+            <text id="www.maesaigraphics.c" sketch:type="MSTextLayer" font-family="Roboto" font-size="32" font-weight="260" sketch:alignment="middle" letter-spacing="1" fill="#FFFFFF">
+                <tspan x="506.375" y="1152">www.maesaigraphics.com</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

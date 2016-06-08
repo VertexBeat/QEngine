@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-1279.000000, -255.000000)" id="Items-Weapon-KitchenAxe">
+            <g sketch:type="MSLayerGroup" transform="translate(1280.000000, 256.000000)">
+                <rect id="Rectangle-5277-Copy-4" fill="#936956" sketch:type="MSShapeGroup" x="64" y="64" width="20" height="50" rx="10"></rect>
+                <path d="M44,20 L78.0007795,20 C81.3140575,20 84,22.6811374 84,26.0021239 L84,78 L49.9992205,78 C46.6859425,78 44,75.3188626 44,71.9978761 L44,20 Z M77,30 C78.6568542,30 80,28.6568542 80,27 C80,25.3431458 78.6568542,24 77,24 C75.3431458,24 74,25.3431458 74,27 C74,28.6568542 75.3431458,30 77,30 Z" id="Rectangle-764" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-764-Copy" fill="#DFDFDF" sketch:type="MSShapeGroup" x="44" y="20" width="6" height="58"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="15px" viewBox="0 0 26 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Personajes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Bullets" sketch:type="MSArtboardGroup" transform="translate(-30.000000, -32.000000)" fill="#FFBE18">
+            <path d="M48.5,47 C52.6421356,47 56,43.6421356 56,39.5 C56,35.3578644 52.6421356,32 48.5,32 C44.3578644,32 30,35.3578644 30,39.5 C30,43.6421356 44.3578644,47 48.5,47 Z" id="Bullet-B-03" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

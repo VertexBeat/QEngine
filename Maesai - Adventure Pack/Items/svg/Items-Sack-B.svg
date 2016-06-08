@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-127.000000, -1279.000000)" id="Items-Sack-B">
+            <g sketch:type="MSLayerGroup" transform="translate(128.000000, 1280.000000)">
+                <path d="M45.050481,28.4837341 C43.959896,26.5597209 44.861993,25 47.0805307,25 L80.6406045,25 C82.852355,25 83.765205,26.5527243 82.6706542,28.4837341 L75.7756226,40.6479692 C74.4132169,43.0515294 71.0668984,45 68.3068716,45 L59.4142635,45 C56.651792,45 53.3047278,43.0459008 51.9455125,40.6479692 L45.050481,28.4837341 Z M64,109 C81.673112,109 96,102.150649 96,85.375 C96,68.5993507 81.673112,55 64,55 C46.326888,55 32,68.5993507 32,85.375 C32,102.150649 46.326888,109 64,109 Z" id="Rectangle-5427" fill="#FEFFD4" sketch:type="MSShapeGroup"></path>
+                <path d="M64,25 L80.6406045,25 C82.852355,25 83.765205,26.5527243 82.6706542,28.4837341 L75.7756226,40.6479692 C74.4132169,43.0515294 71.0668984,45 68.3068716,45 L64,45 L64,25 Z M64,55 C81.673112,55 96,68.5993507 96,85.375 C96,102.150649 81.673112,109 64,109 L64,55 Z" id="Rectangle-5427-Copy" fill="#ECD7C1" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-5429" fill="#8B572A" sketch:type="MSShapeGroup" x="54" y="50" width="20" height="6" rx="3"></rect>
+                <rect id="Rectangle-5429-Copy-2" fill="#8B572A" sketch:type="MSShapeGroup" transform="translate(71.000000, 59.000000) rotate(-90.000000) translate(-71.000000, -59.000000) " x="63" y="56" width="16" height="6" rx="3"></rect>
+                <rect id="Rectangle-5429-Copy" fill="#8B572A" sketch:type="MSShapeGroup" x="54" y="44" width="20" height="6" rx="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

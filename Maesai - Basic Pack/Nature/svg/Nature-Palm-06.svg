@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-1536.000000, 0.000000)">
+            <g id="Nature-Palm-06" sketch:type="MSLayerGroup" transform="translate(1536.000000, 0.000000)">
+                <path d="M69.6502653,64 C63.5914068,56.0962766 54.0534193,51 43.3251326,51 C32.5968459,51 23.0588584,56.0962766 17,64 L69.6502653,64 L69.6502653,64 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup"></path>
+                <path d="M110.650265,64 C104.591407,56.0962766 95.0534193,51 84.3251326,51 C73.5968459,51 64.0588584,56.0962766 58,64 L110.650265,64 L110.650265,64 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup"></path>
+                <path d="M82.0482336,39.2917314 C71.3199469,39.2917314 61.7819594,44.3880081 55.723101,52.2917314 L108.373366,52.2917314 C102.314508,44.3880081 92.7765203,39.2917314 82.0482336,39.2917314 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup" transform="translate(82.048234, 45.791731) rotate(-30.000000) translate(-82.048234, -45.791731) "></path>
+                <path d="M72.6502653,52 C66.5914068,44.0962766 57.0534193,39 46.3251326,39 C35.5968459,39 26.0588584,44.0962766 20,52 L72.6502653,52 L72.6502653,52 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup" transform="translate(46.325133, 45.500000) rotate(-330.000000) translate(-46.325133, -45.500000) "></path>
+                <path d="M67.0482336,39.2917314 C56.3199469,39.2917314 46.7819594,44.3880081 40.723101,52.2917314 L93.3733663,52.2917314 C87.3145078,44.3880081 77.7765203,39.2917314 67.0482336,39.2917314 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup" transform="translate(67.048234, 45.791731) rotate(-60.000000) translate(-67.048234, -45.791731) "></path>
+                <path d="M87.6502653,52 C81.5914068,44.0962766 72.0534193,39 61.3251326,39 C50.5968459,39 41.0588584,44.0962766 35,52 L87.6502653,52 L87.6502653,52 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup" transform="translate(61.325133, 45.500000) rotate(-300.000000) translate(-61.325133, -45.500000) "></path>
+                <rect id="Rectangle-1-Copy-11" fill="#AD765F" sketch:type="MSShapeGroup" x="58" y="64" width="12" height="64"></rect>
+                <rect id="Rectangle-1-Copy-13" fill="#936956" sketch:type="MSShapeGroup" x="58" y="64" width="12" height="8"></rect>
+                <path d="M63.7845056,52.7144033 C53.0562189,52.7144033 43.5182314,57.8106799 37.459373,65.7144033 L83.2520251,65.7144033 C77.1931667,57.8106799 74.5127923,52.7144033 63.7845056,52.7144033 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup" transform="translate(60.355699, 59.214403) rotate(-30.000000) translate(-60.355699, -59.214403) "></path>
+                <path d="M64.4455825,53.540856 C53.7172958,53.540856 53.1758064,58.6371326 47.116948,66.540856 L90.7707152,66.540856 C84.7118567,58.6371326 75.1738692,53.540856 64.4455825,53.540856 Z" id="Oval-231" fill="#9BCA6A" sketch:type="MSShapeGroup" transform="translate(68.943832, 60.040856) rotate(-330.000000) translate(-68.943832, -60.040856) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

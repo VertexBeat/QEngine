@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="terrain" sketch:type="MSArtboardGroup" transform="translate(0.000000, -1024.000000)">
+            <g id="Terrain-Stone-A-13" sketch:type="MSLayerGroup" transform="translate(0.000000, 1024.000000)">
+                <g id="Group-Copy-60" transform="translate(0.000000, 42.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Path-Copy-3" fill="#57686A" x="44" y="22" width="46" height="64" rx="10"></rect>
+                    <path d="M102,36 L102,61.9960546 C102,67.5273801 97.5254155,72 92.0057357,72 L35.9942643,72 C30.4704103,72 26,67.5210811 26,61.9960546 L26,36 L9.99063018,36 C4.48053479,36 0,31.5210139 0,25.9959045 L0,0 L128,0 L128,25.9959045 C128,31.5133644 123.527043,36 118.00937,36 L102,36 Z" id="Rectangle-20-Copy-56" fill="#5F7173"></path>
+                    <path d="M36,50 L21.9955469,50 C16.46875,50 12,45.5270978 12,40.0094932 L12,10 L116,10 L116,40.0094932 C116,45.5279241 111.524841,50 106.004453,50 L68,50 L68,52.0034985 C68,57.5304407 63.5258151,62 58.0066283,62 L45.9933717,62 C40.4831571,62 36,57.5244138 36,52.0034985 L36,50 Z" id="Rectangle-20-Copy-63" fill="#6D8183"></path>
+                </g>
+                <rect id="Rectangle-20-Copy-12" fill="#6D8183" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="64"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

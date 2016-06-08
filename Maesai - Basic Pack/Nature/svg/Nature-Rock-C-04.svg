@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-128.000000, -896.000000)">
+            <g id="Nature-Rock-C-04" sketch:type="MSLayerGroup" transform="translate(128.000000, 896.000000)">
+                <rect id="Rectangle-951" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M92.9457252,17.9726518 C90.2142766,23.394552 85.7816584,23.386483 83.0542748,17.9726518 L74,-3.55271368e-15 L102,-3.55271368e-15 L92.9457252,17.9726518 L92.9457252,17.9726518 Z" id="Triangle-30-Copy-5" fill="#AC7849" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

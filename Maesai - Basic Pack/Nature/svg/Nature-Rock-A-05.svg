@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-1024.000000, -768.000000)">
+            <g id="Nature-Rock-A-05" sketch:type="MSLayerGroup" transform="translate(1024.000000, 768.000000)">
+                <rect id="Rectangle-940" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M24,102.004095 C24,96.4789861 28.4704103,92 33.9942643,92 L90.0057357,92 C95.5254155,92 100,96.4866356 100,102.004095 L100,128 L24,128 L24,102.004095 Z" id="Rectangle-20-Copy-43" fill="#6D8183" sketch:type="MSShapeGroup"></path>
+                <path d="M112,128 L112,117.990507 C112,112.472076 107.523709,108 102.001925,108 L71.9980749,108 C66.4811691,108 62,112.472902 62,117.990507 L62,128 L112,128 Z" id="Rectangle-20-Copy-50" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

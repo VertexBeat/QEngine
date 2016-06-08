@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-1023.000000, -1151.000000)" id="Items-Armor-Helmet-C">
+            <g sketch:type="MSLayerGroup" transform="translate(1024.000000, 1152.000000)">
+                <g id="Rectangle-5676-+-Rectangle-5676-Copy" transform="translate(24.000000, 19.000000)" sketch:type="MSShapeGroup">
+                    <path d="M33.4672235,8.59024745 C37.0750924,-1.84892729 42.9248122,-1.84832343 46.5324724,8.59024745 L69.3287698,74.5501096 C71.133167,79.7710359 68.1149999,84.003433 62.5881183,84.003433 L17.4115776,84.003433 C11.8844214,84.003433 8.86768573,79.7676887 10.6709261,74.5501096 L33.4672235,8.59024745 Z" id="Rectangle-5676" fill="#36424B"></path>
+                    <rect id="Rectangle-5676-Copy" fill="#293138" x="0" y="71" width="80" height="14" rx="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(1.000000, -767.000000)" id="Items-Food-Fish">
+            <g sketch:type="MSLayerGroup" transform="translate(0.000000, 768.000000)">
+                <g id="Group" transform="translate(24.000000, 41.000000)" sketch:type="MSShapeGroup">
+                    <path d="M80,39 L80,11 C71.7157288,11 65,17.2680135 65,25 C65,32.7319865 71.7157288,39 80,39 Z" id="Oval-1065-Copy" fill="#D8D8D8"></path>
+                    <path d="M77.1557445,11.2513481 C78.0766644,11.086373 79.027525,11 80,11 L80,39 C79.027525,39 78.0766644,38.913627 77.1557445,38.7486519 L72,25 L77.1557445,11.2513481 Z" id="Oval-1065-Copy-2" fill="#979797"></path>
+                    <path d="M67,25.0000042 C62.3652164,11.0045199 49.1734838,0.907451615 33.6234546,0.907451615 C18.0734254,0.907451615 4.88169277,11.0045199 0.246909181,25.0000042 C4.88169537,38.9954821 18.0734269,49.0925484 33.6234546,49.0925484 C49.1734823,49.0925484 62.3652138,38.9954821 66.9999986,25 L67,25.0000042 Z" id="Oval-1064" fill="#D8D8D8"></path>
+                    <path d="M0.246909181,25.0000041 C4.88148086,38.9417202 18.0726018,49 33.6219099,49 C49.1712179,49 62.3623389,38.9417202 66.9969092,25 C51.9976039,25.0000001 19.9990849,24.9999997 0.246909181,25.0000041 Z" id="Oval-1064-Copy" fill="#FFFFFF"></path>
+                    <path d="M19.6313204,3.80254358 C10.5112669,7.76408675 3.39951936,15.480184 0.246909181,25.0000042 C3.39952097,34.5198195 10.511268,42.2359142 19.6313203,46.1974565 C25.0962672,42.235914 29.3577908,34.5198183 31.2469084,25 L31.2469092,25.0000042 C29.3577921,15.480184 25.096268,7.76408675 19.6313204,3.80254358 Z" id="Oval-1064-Copy-3" fill="#D8D8D8"></path>
+                    <path d="M46,39 L46,11 C37.7157288,11 31,17.2680135 31,25 C31,32.7319865 37.7157288,39 46,39 Z" id="Oval-1065-Copy-3" fill="#D8D8D8"></path>
+                    <circle id="Oval-1066" fill="#979797" cx="15" cy="25" r="7"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

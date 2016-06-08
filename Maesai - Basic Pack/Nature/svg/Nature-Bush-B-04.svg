@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-1408.000000, -512.000000)">
+            <g id="Nature-Bush-B-04" sketch:type="MSLayerGroup" transform="translate(1408.000000, 512.000000)">
+                <g id="Rectangle-20-Copy-27-+-Rectangle-20-Copy-15-+-Rectangle-20-Copy-16" transform="translate(0.000000, 28.000000)" sketch:type="MSShapeGroup">
+                    <path d="M14.999018,0 L34.001964,0 C39.5237268,0 44,4.47849687 44,9.99534328 L44,42.0046567 C44,47.5249324 39.5184744,52 34.001964,52 L14.999018,52 L0,52 L0,0 L14.999018,0 Z" id="Rectangle-20-Copy-27" fill="#8BB363"></path>
+                    <path d="M53.9987413,100 L107.997483,100 C113.522997,100 118,95.5270978 118,90.0094932 L118,69.9905068 C118,64.4720759 113.52172,60 107.997483,60 L98,60 L98,36 C98,30.4749186 93.5241476,26 88.0029039,26 L39.9970961,26 C34.4748104,26 30,30.4771525 30,36 L30,60 L12,60 L12,27.9992012 C12,22.476169 7.51851773,18 1.99032919,18 L7.32747196e-15,18 L7.10542736e-15,100 L53.9987413,100 Z" id="Rectangle-20-Copy-15" fill="#9BCA6A"></path>
+                    <path d="M15.9985497,100 L80.0029007,100 C85.5215017,100 90,95.5237094 90,90.0019251 L90,59.9980749 C90,54.4811691 85.5241462,50 80.0029007,50 L52,50 L52,46.0066862 C52,40.4748366 47.5249324,36 42.0046567,36 L15.9976716,36 L0,36 L0,55.0011903 L0,63.9956944 L0,76.9988097 L0,100 L15.9985497,100 Z" id="Rectangle-20-Copy-16" fill="#B8E986"></path>
+                </g>
+                <path d="M70,87 C73.3137085,87 76,84.3137085 76,81 C76,77.6862915 73.3137085,75 70,75 C66.6862915,75 64,77.6862915 64,81 C64,84.3137085 66.6862915,87 70,87 Z M26,114 C29.3137085,114 32,111.313708 32,108 C32,104.686292 29.3137085,102 26,102 C22.6862915,102 20,104.686292 20,108 C20,111.313708 22.6862915,114 26,114 Z" id="Oval-257-Copy-8" fill="#CC4B2B" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

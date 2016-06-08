@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-640.000000, -256.000000)" id="Items-Coin-C">
+            <g sketch:type="MSLayerGroup" transform="translate(640.000000, 256.000000)">
+                <rect id="Rectangle-4631" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <g id="Oval-1112-Copy-2-+-Oval-1112-Copy-+-Oval-1112-Copy-3" transform="translate(30.000000, 34.000000)" sketch:type="MSShapeGroup">
+                    <path d="M38.372093,0 C54.9406355,0 68.372093,13.4314575 68.372093,30 C68.372093,46.5685425 54.9406355,60 38.372093,60 L28.8139535,60 L28.8139535,58.4452269 C16.9317962,54.4542097 8.37209302,43.2267178 8.37209302,30 C8.37209302,16.7732822 16.9317962,5.54579026 28.8139535,1.55477306 L28.8139535,0 L38.372093,0 Z" id="Oval-1112-Copy-2" fill="#CA5D0E"></path>
+                    <circle id="Oval-1112-Copy" fill="#F6A623" cx="30" cy="30" r="30"></circle>
+                    <path d="M31.6815712,10.0696915 C31.1271619,10.0235388 30.5663298,10 30,10 C18.954305,10 10,18.954305 10,30 C10,30.5663298 10.0235388,31.1271619 10.0696915,31.6815712 L31.6815712,10.0696915 Z" id="Oval-1112-Copy-3" fill="#CA5D0E"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

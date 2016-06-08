@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-255.000000, -767.000000)" id="Items-CrystalBall">
+            <g sketch:type="MSLayerGroup" transform="translate(256.000000, 768.000000)">
+                <circle id="Oval-1116" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="64" cy="56" r="30"></circle>
+                <rect id="Rectangle-5678" fill="#B9906C" sketch:type="MSShapeGroup" x="38" y="82" width="52" height="14" rx="7"></rect>
+                <path d="M28,103 C28,99.1340068 31.1400469,96 35.0018886,96 L92.9981114,96 C96.8651477,96 100,99.1418733 100,103 L100,106.996649 C100,108.655354 98.6606984,110 97.0024773,110 L64.4726562,110 L31.0087577,110 C29.3470667,110 28,108.657621 28,106.996649 L28,103 Z" id="Rectangle-5678-Copy" fill="#B9906C" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

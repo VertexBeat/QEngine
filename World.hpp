@@ -1,7 +1,7 @@
 #pragma once
 #include "TSingleton.hpp"
 #include <Box2D\Box2D.h>
-#include <SFML\System.hpp>
+#include <SFML/Graphics.hpp>
 
 #define g_pWorld World::Get()
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Personajes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Halloween" sketch:type="MSArtboardGroup" transform="translate(-127.000000, 1.000000)">
+            <g id="Broom" sketch:type="MSLayerGroup" transform="translate(128.000000, 0.000000)">
+                <rect id="Rectangle-1009" fill="#AD765F" sketch:type="MSShapeGroup" x="62" y="10" width="8" height="82" rx="4"></rect>
+                <path d="M49.1211819,95.9599387 C49.6065397,90.4592165 54.4831571,86 59.9933717,86 L72.0066283,86 C77.5258151,86 82.3937389,90.4623743 82.8788181,95.9599387 L85,120 L53,120 L53,114 L50,120 L47,120 L49.1211819,95.9599387 Z" id="Rectangle-1006" fill="#FFCF62" sketch:type="MSShapeGroup"></path>
+                <path d="M60,78.5 C60,76.0147186 62.0085302,74 64.5024982,74 L67.4975018,74 C69.9841629,74 72,76.0197757 72,78.5 L72,83 L66,83 L60,83 L60,78.5 Z" id="Rectangle-1006-Copy" fill="#FFCF62" sketch:type="MSShapeGroup" transform="translate(66.000000, 78.500000) rotate(-180.000000) translate(-66.000000, -78.500000) "></path>
+                <rect id="Rectangle-1008" fill="#FEFFD4" sketch:type="MSShapeGroup" x="60" y="82" width="12" height="4" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

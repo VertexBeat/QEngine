@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(-1152.000000, 0.000000)">
+            <g id="Objects-Spikes-04" sketch:type="MSLayerGroup" transform="translate(1152.000000, 0.000000)">
+                <rect id="Mask" sketch:type="MSShapeGroup" transform="translate(64.000000, 64.000000) scale(-1, 1) translate(-64.000000, -64.000000) " x="0" y="0" width="128" height="128"></rect>
+                <path d="M128,34.078054 L97.5497567,26.4385444 C86.1667544,23.5827197 86.1611013,18.9487954 97.5497567,16.0915525 L128,8.45204285 L128,34.078054 Z M128,76.6081093 L97.5497567,68.9685997 C86.1667544,66.112775 86.1611013,61.4788507 97.5497567,58.6216077 L128,50.9820981 L128,76.6081093 Z M128,119.547999 L97.5497567,111.908489 C86.1667544,109.052664 86.1611013,104.41874 97.5497567,101.561497 L128,93.9219876 L128,119.547999 Z" id="Rectangle-4599" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

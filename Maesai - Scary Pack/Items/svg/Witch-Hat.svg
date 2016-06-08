@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M87.9545178,78 L92.1018213,90 L35.8978746,90 L40.0451781,78 L87.9545178,78 Z" id="path-1"></path>
+    </defs>
+    <g id="Personajes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Halloween" sketch:type="MSArtboardGroup" transform="translate(1.000000, 1.000000)">
+            <g id="Witch-Hat" sketch:type="MSLayerGroup">
+                <path d="M57.4672235,27.5902474 C61.0750924,17.1510727 66.9248122,17.1516766 70.5324724,27.5902474 L93.3287698,93.5501096 C95.133167,98.7710359 92.1149999,103.003433 86.5881183,103.003433 L41.4115776,103.003433 C35.8844214,103.003433 32.8676857,98.7676887 34.6709261,93.5501096 L57.4672235,27.5902474 Z" id="Rectangle-5676" fill="#293138" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-5676-Copy" fill="#293138" sketch:type="MSShapeGroup" x="24" y="90" width="80" height="14" rx="7"></rect>
+                <mask id="mask-2" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#643FA1" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <path d="M56.0013869,76 L71.9986131,76 C73.6562333,76 75,77.3423789 75,79.0033512 L75,90 L64,90 L53,90 L53,79.0033512 C53,77.3446462 54.3430813,76 56.0013869,76 Z M57,80 L71,80 L71,86 L57,86 L57,80 Z" id="Path" fill="#FFCF62" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

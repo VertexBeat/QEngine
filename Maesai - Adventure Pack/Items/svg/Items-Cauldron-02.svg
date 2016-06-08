@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-512.000000, -128.000000)" id="Items-Cauldron-02">
+            <g sketch:type="MSLayerGroup" transform="translate(512.000000, 128.000000)">
+                <rect id="Rectangle-5192" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <circle id="Oval-990-Copy-4" fill="#30C120" sketch:type="MSShapeGroup" cx="59" cy="39" r="9"></circle>
+                <circle id="Oval-990-Copy-5" fill="#30C120" sketch:type="MSShapeGroup" cx="82" cy="40" r="9"></circle>
+                <circle id="Oval-990-Copy-2" fill="#2FC120" sketch:type="MSShapeGroup" cx="101.5" cy="39.5" r="7.5"></circle>
+                <circle id="Oval-990-Copy-6" fill="#2FC120" sketch:type="MSShapeGroup" cx="29.5" cy="39.5" r="7.5"></circle>
+                <circle id="Oval-990" fill="#7ED321" sketch:type="MSShapeGroup" cx="44.5" cy="42.5" r="13.5"></circle>
+                <circle id="Oval-990-Copy" fill="#7ED321" sketch:type="MSShapeGroup" cx="72" cy="38" r="9"></circle>
+                <circle id="Oval-990-Copy-3" fill="#7ED321" sketch:type="MSShapeGroup" cx="93" cy="37" r="8"></circle>
+                <path d="M35.4035024,80.590318 C25.9247276,78.0519861 18.4852735,83.9461443 18.7863876,93.734846 L19.5882711,119.802693 C19.8896668,129.600547 24.3241237,130.778978 29.4821357,122.452182 L43.2182031,100.27747 C48.3810379,91.942888 44.8843614,83.129208 35.4035024,80.590318 Z M93.5916018,80.590318 C84.112827,83.1286499 80.6188892,91.9506737 85.7769012,100.27747 L99.5129686,122.452182 C104.675803,130.786764 109.105719,129.591394 109.406833,119.802693 L110.208717,93.734846 C110.510112,83.9369917 103.072461,78.0514279 93.5916018,80.590318 Z" id="Path-14-Copy-7" fill="#57686A" sketch:type="MSShapeGroup"></path>
+                <path d="M64,113 C96.0325155,113 122,95.0325155 122,63 C122,30.9674845 118,38 64,38 C10,38 6,30.9674845 6,63 C6,95.0325155 31.9674845,113 64,113 Z" id="Oval-988" fill="#5F7173" sketch:type="MSShapeGroup"></path>
+                <path d="M64.9996885,84 C55.1862419,84 49.5265306,90.839876 52.3524677,99.2597065 L59.8780924,121.682175 C62.7066718,130.109878 67.2953475,130.102005 70.1212846,121.682175 L77.6469094,99.2597065 C80.4754888,90.8320033 74.8152928,84 64.9996885,84 L64.9996885,84 Z" id="Path-14-Copy-6" fill="#6D8183" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

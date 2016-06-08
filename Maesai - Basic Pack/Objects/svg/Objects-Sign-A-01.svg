@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup">
+            <g id="Objects-Sign-A-01" sketch:type="MSLayerGroup">
+                <rect id="Rectangle-5308" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <rect id="Rectangle-4585-Copy" fill="#AD765F" sketch:type="MSShapeGroup" x="56" y="72" width="16" height="56"></rect>
+                <rect id="Rectangle-4585-Copy-2" fill="#936956" sketch:type="MSShapeGroup" x="56" y="78" width="16" height="28"></rect>
+                <rect id="Rectangle-5306" fill="#B9906C" sketch:type="MSShapeGroup" x="20" y="34" width="88" height="66" rx="10"></rect>
+                <path d="M66.2165711,82.2346952 C63.9886695,83.8627771 62.1825984,82.9347343 62.1825984,80.1825417 L62.1825984,76.1825984 L45.1768004,76.1825984 C43.5231483,76.1825984 42.1825984,74.8392864 42.1825984,73.1883963 L42.1825984,59.1768004 C42.1825984,57.5231483 43.5259103,56.1825984 45.1768004,56.1825984 L62.1825984,56.1825984 L62.1825984,52.1826551 C62.1825984,49.4212 63.9902253,48.5035565 66.2165711,50.1305015 L84.1486256,63.2346952 C86.3765272,64.8627771 86.3749714,67.5035565 84.1486256,69.1305015 L66.2165711,82.2346952 Z" id="Triangle-155" fill="#AD765F" sketch:type="MSShapeGroup" transform="translate(64.000783, 66.181815) scale(-1, 1) rotate(-90.000000) translate(-64.000783, -66.181815) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Personajes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Halloween" sketch:type="MSArtboardGroup" transform="translate(-127.000000, -127.000000)">
+            <g id="Boody-KitchenAxe" sketch:type="MSLayerGroup" transform="translate(128.000000, 128.000000)">
+                <rect id="Rectangle-5277-Copy-4" fill="#936956" sketch:type="MSShapeGroup" x="64" y="64" width="20" height="50" rx="10"></rect>
+                <path d="M44,20 L78.0007795,20 C81.3140575,20 84,22.6811374 84,26.0021239 L84,78 L49.9992205,78 C46.6859425,78 44,75.3188626 44,71.9978761 L44,20 Z M77,30 C78.6568542,30 80,28.6568542 80,27 C80,25.3431458 78.6568542,24 77,24 C75.3431458,24 74,25.3431458 74,27 C74,28.6568542 75.3431458,30 77,30 Z" id="Rectangle-764" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-764-Copy" fill="#DFDFDF" sketch:type="MSShapeGroup" x="44" y="20" width="6" height="58"></rect>
+                <path d="M44,71 L44.009391,71 C48.9724144,71 53,66.9705627 53,62 C53,60.8293167 52.7768136,59.710937 52.3707201,58.6851396 C56.189558,57.6454943 59,54.1509133 59,50 C59,45.0283444 54.9725359,41 50.0044072,41 L47.8292943,41 L47.8292943,41 C47.9398458,40.6872211 48,40.3506354 48,40 C48,38.3431458 46.6568542,37 45,37 C44.6493646,37 44.3127789,37.0601542 44,37.1707057 L44,71 L44,71 Z M59.4648712,78 C59.8052114,77.4116533 60,76.7285743 60,76 C60,73.790861 58.209139,72 56,72 C53.790861,72 52,73.790861 52,76 C52,76.7285747 52.1947888,77.4116541 52.5351294,78.0000011 L59.4648712,78 L59.4648712,78 Z M64.5,62 C65.8807119,62 67,60.8807119 67,59.5 C67,58.1192881 65.8807119,57 64.5,57 C63.1192881,57 62,58.1192881 62,59.5 C62,60.8807119 63.1192881,62 64.5,62 Z M51.5,38 C52.8807119,38 54,36.8807119 54,35.5 C54,34.1192881 52.8807119,33 51.5,33 C50.1192881,33 49,34.1192881 49,35.5 C49,36.8807119 50.1192881,38 51.5,38 Z" id="Rectangle-998-Copy-2" fill="#BD2929" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

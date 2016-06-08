@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="items" sketch:type="MSArtboardGroup" transform="translate(-512.000000, -384.000000)">
+            <g id="Items-Star-A" sketch:type="MSLayerGroup" transform="translate(512.000000, 384.000000)">
+                <rect id="Rectangle-5269" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <polygon id="Mask" fill="#FFCF62" sketch:type="MSShapeGroup" points="63.6743109 91.1946187 35.8627814 105.816005 41.1743109 74.8474118 18.6743109 52.9153323 49.7685461 48.3970754 63.6743109 20.2209185 77.5800756 48.3970754 108.674311 52.9153323 86.1743109 74.8474118 91.4858403 105.816005 "></polygon>
+                <path d="M63.6743109,91.1946187 L75.5495737,97.4378138 C84.3597956,102.069622 90.1231939,97.8711664 88.4422842,88.0707113 L86.1743109,74.8474118 L95.7816003,65.4826191 C102.90922,58.5349074 100.697239,51.756196 90.8570231,50.3263288 L77.5800756,48.3970754 L71.6424442,36.3661201 C67.2373332,27.4403904 60.1068561,27.4493715 55.7061775,36.3661201 L49.7685461,48.3970754 L36.4915986,50.3263288 C26.6414711,51.7576361 24.446574,58.5418982 31.5670214,65.4826191 L41.1743109,74.8474118 L38.9063375,88.0707113 C37.2237348,97.8810375 42.997691,102.064961 51.799048,97.4378138" id="Mask-Copy" fill="#FFCF62" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

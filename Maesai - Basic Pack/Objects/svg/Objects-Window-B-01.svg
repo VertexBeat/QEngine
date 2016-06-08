@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(-767.000000, -255.000000)">
+            <g id="Objects-Window-B-01" sketch:type="MSLayerGroup" transform="translate(768.000000, 256.000000)">
+                <rect id="Rectangle-3306-Copy" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M64,97 C77.8071187,97 89,85.8071187 89,72 C89,58.1928813 77.8071187,47 64,47 C50.1928813,47 39,58.1928813 39,72 C39,85.8071187 50.1928813,97 64,97 Z" id="Oval-424" fill="#936956" sketch:type="MSShapeGroup"></path>
+                <path d="M64,90.4558441 C73.9411255,90.4558441 82,82.3969696 82,72.4558441 C82,62.5147186 46,62.5147186 46,72.4558441 C46,82.3969696 54.0588745,90.4558441 64,90.4558441 Z" id="Oval-424-Copy" fill="#272C31" sketch:type="MSShapeGroup"></path>
+                <path d="M82,72 C82,62.0588745 73.9411255,54 64,54 C54.0588745,54 46,62.0588745 46,72 L82,72 Z" id="Oval-424-Copy-3" fill="#674C40" sketch:type="MSShapeGroup"></path>
+                <path d="M81,72 C81,65.372583 73.3888407,60 64,60 C54.6111593,60 47,65.372583 47,72 L81,72 Z" id="Oval-424-Copy-4" fill="#936956" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

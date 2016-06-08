@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Personajes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Halloween" sketch:type="MSArtboardGroup" transform="translate(-254.000000, -127.000000)">
+            <g id="Bloody-Knife" sketch:type="MSLayerGroup" transform="translate(255.000000, 128.000000)">
+                <rect id="Rectangle-5277-Copy-4" fill="#936956" sketch:type="MSShapeGroup" x="54" y="64" width="20" height="50" rx="10"></rect>
+                <path d="M74,24 L74,78 L54,78 L54,46.0016487 C54,33 61.7777778,24 74,24 Z" id="Rectangle-5496" fill="#DFDFDF" sketch:type="MSShapeGroup"></path>
+                <path d="M74,28 L74,78 L58.4444444,78 L58.4444444,47.8904154 C58.4444444,34 66.2222222,28 74,28 Z" id="Rectangle-5496-Copy" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+                <path d="M54,59 L62.009391,59 C66.9724144,59 71,54.9705627 71,50 C71,45.8594105 68.2080138,42.3731216 64.4062196,41.3232791 C66.0097486,39.6979155 67,37.4646537 67,35 C67,31.7281028 65.2566354,28.8647622 62.6492599,27.2893159 C57.1725458,31.026403 54,37.6978921 54,46.0016487 L54,59 Z M67.5,68 C69.4329966,68 71,66.4329966 71,64.5 C71,62.5670034 69.4329966,61 67.5,61 C65.5670034,61 64,62.5670034 64,64.5 C64,66.4329966 65.5670034,68 67.5,68 Z M59,73 C60.1045695,73 61,72.1045695 61,71 C61,69.8954305 60.1045695,69 59,69 C57.8954305,69 57,69.8954305 57,71 C57,72.1045695 57.8954305,73 59,73 Z" id="Rectangle-998" fill="#BD2929" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

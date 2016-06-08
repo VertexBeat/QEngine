@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-767.000000, -1407.000000)" id="Items-Armor-Chest-F">
+            <g sketch:type="MSLayerGroup" transform="translate(768.000000, 1408.000000)">
+                <g id="Group" transform="translate(28.000000, 22.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Path-Copy-12" fill="#ECD7C1" x="0" y="9.23705556e-14" width="72" height="64" rx="14"></rect>
+                    <path d="M60.2009079,0 L11.7998211,0 L11.7998211,9.99200722e-16 C11.9310888,0.647325292 12,1.31748227 12,2.00394538 L12,29.9960546 C12,35.5210811 7.5168429,40 2.00662833,40 L0,40 L0,77.9909575 C0,83.5150843 4.47373763,88 9.99237268,88 L62.0076273,88 C67.5232812,88 72,83.518799 72,77.9909575 L72,40 L69.9933717,40 C64.4741849,40 60,35.5273801 60,29.9960546 L60,2.00394538 C60,1.31762828 60.0691775,0.647453176 60.2009079,-3.55271368e-15 Z" id="Path-Copy-9" fill="#FEFFD4"></path>
+                    <path d="M11.0710538,88 C11.5573564,84.6077059 14.4803364,82 17.994557,82 L20.005443,82 C22.7374804,82 25.103677,83.5715037 26.2549915,85.8564605 L26.2549915,85.8564605 C27.5035571,84.7040786 29.1713226,84 31,84 C33.7910497,84 36.2005805,85.6375765 37.324743,88 L11.0710538,88 Z M59,88 C59,85.7953562 57.209139,84 55,84 C52.7953562,84 51,85.790861 51,88 L59,88 Z M47,78 C47,76.3431458 48.3465171,75 50,75 C51.6568542,75 53,76.3465171 53,78 C53,79.6568542 51.6534829,81 50,81 C48.3431458,81 47,79.6534829 47,78 Z" id="Rectangle-918" fill="#ECD7C1"></path>
+                    <path d="M36,45 C36,45 52,24.836556 52,16 C52,7.163444 44.836556,2 36,2 C27.163444,2 20,7.163444 20,16 C20,24.836556 36,45 36,45 Z" id="Oval-1071" fill="#ECD7C1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -67,6 +67,13 @@ void Tile::loadTexture(std::string id, std::string filePath)
 }
 //----------------------------------
 
+// load sprite textures
+void Tile::loadTexture(const sf::Texture& texture)
+{
+	m_sprite.setTexture(texture);
+}
+//----------------------------------
+
 // if m_Collision is true init Box2D!
 void Tile::InitBox2d()
 {

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-384.000000, -384.000000)">
+            <g id="Nature-Tree-B-09" sketch:type="MSLayerGroup" transform="translate(384.000000, 384.000000)">
+                <rect id="Mask" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M72.3176547,108.19487 C67.7234043,98.144947 60.2760591,98.1461206 55.6823453,108.19487 L46.6285714,128 L81.3714286,128 L72.3176547,108.19487 Z" id="Triangle-13" fill="#B8E986" sketch:type="MSShapeGroup"></path>
+                <path d="M73.1441292,110.002783 C68.0947316,98.9572253 64,99.8454683 64,111.990469 L64,128 L81.3714286,128 L73.1441292,110.002783 Z" id="Triangle-13-Copy-3" opacity="0.322516316" fill="#E3FFC6" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

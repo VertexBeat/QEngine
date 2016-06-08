@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(0.000000, -768.000000)">
+            <g id="Buildings-House-A-01" sketch:type="MSLayerGroup" transform="translate(0.000000, 768.000000)">
+                <rect id="Rectangle-2932-Copy-3" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M112,18 L128,18 L128,52 L128,62 L120,62 C115.581722,62 112,58.4179511 112,54.0064224 L112,18 Z" id="Rectangle-2975" fill="#7C3B1E" sketch:type="MSShapeGroup"></path>
+                <path d="M112,12.9932448 C112,8.5786976 115.590712,5 120,5 L128,5 L128,41 L128,50 L120,50 C115.581722,50 112,46.4124415 112,42.0067552 L112,12.9932448 Z" id="Rectangle-116-Copy-4" fill="#8D4323" sketch:type="MSShapeGroup"></path>
+                <path d="M112,7.99357759 C112,3.57884659 115.590712,0 120,0 L128,0 L128,31 L128,44 L120,44 C115.581722,44 112,40.4179511 112,36.0064224 L112,7.99357759 Z" id="Rectangle-116-Copy-2" fill="#CC4B2B" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

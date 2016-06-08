@@ -14,6 +14,7 @@ public:
 
 	// load texture 
 	void loadTexture(std::string id, std::string filePath);
+	void loadTexture(const sf::Texture & texture);
 	// init box2d
 	void InitBox2d();
 	// set Bodytype
@@ -28,6 +29,9 @@ public:
 	sf::Sprite render();
 	// set PixelConversion
 	void setBox2dConverter(float conversionRate);
+
+	// TEST-AREA!!!!
+	std::string getFilePath() { return m_filePath; };
 private:
 	sf::Sprite m_sprite;
 	BODYTYPE m_Type;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-767.000000, -895.000000)" id="Items-Armor-Chest-E">
+            <g sketch:type="MSLayerGroup" transform="translate(768.000000, 896.000000)">
+                <rect id="Rectangle-5473" fill="#57686A" sketch:type="MSShapeGroup" x="20" y="80" width="88" height="40" rx="26"></rect>
+                <ellipse id="Oval-1072" fill="#57686A" sketch:type="MSShapeGroup" cx="64" cy="111" rx="17" ry="15"></ellipse>
+                <path d="M20,89.9958407 C20,82.2661513 26.2663135,76 34,76 L48,76 L48,92 L48,103.002956 C48,107.971886 43.9733833,112 39.0057994,112 L34,112 C26.2680135,112 20,105.729279 20,98.0041593 L20,89.9958407 Z" id="Rectangle-843" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+                <path d="M80,89.9958407 C80,82.2661513 86.2663135,76 94,76 L108,76 L108,92 L108,103.009806 C108,107.974953 103.973383,112 99.0057994,112 L94,112 C86.2680135,112 80,105.729279 80,98.0041593 L80,89.9958407 Z" id="Rectangle-843-Copy-2" fill="#8DA1A3" sketch:type="MSShapeGroup" transform="translate(94.000000, 94.000000) scale(-1, 1) translate(-94.000000, -94.000000) "></path>
+                <path d="M48,84 L65,84 L80,84 L80,104.000227 C80,112.836658 72.8384989,120 64,120 L64,120 C55.163444,120 48,112.844516 48,104.000227 L48,84 Z" id="Rectangle-843-Copy" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+                <path d="M105.736622,82.7454409 C101.276588,90.6572212 92.7963113,96 83.0747199,96 L44.9252801,96 C35.2000212,96 26.7219558,90.6575214 22.2631144,82.7468731 C23.8161605,73.2483963 32.0578582,66 42.0000447,66 L85.9999553,66 C95.9376633,66 104.182514,73.2460028 105.736622,82.7454409 Z" id="Path-Copy-16" fill="#5F7173" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-202" fill="#B5BFC0" sketch:type="MSShapeGroup" cx="64" cy="92" r="10"></circle>
+                <path d="M22,36.0003513 C22,29.3727403 27.3720648,24 34.0085742,24 L64.4316406,24 L93.9903103,24 C100.623079,24 106,29.3739559 106,36.0003513 L106,61.9918199 C106,76.3557411 94.3642879,88 79.9971356,88 L48.0028644,88 C33.6418789,88 22,76.35441 22,61.9918199 L22,36.0003513 Z" id="Path-Copy-7" fill="#5F7173" sketch:type="MSShapeGroup"></path>
+                <path d="M80,24 L92,24 L92,24 L92,45.9960546 C92,51.5273801 96.4741849,56 101.993372,56 L106,56 L106,61.9918199 C106,76.3557411 94.3642879,88 79.9971356,88 L48.0028644,88 C33.6418789,88 22,76.35441 22,61.9918199 L22,56 L26.0066283,56 C31.5168429,56 36,51.5210811 36,45.9960546 L36,24 L36,24 L48,24 C48,32.836556 55.163444,40 64,40 C72.836556,40 80,32.836556 80,24 Z" id="Rectangle-5469" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+                <path d="M36,24 L36,45.9964348 C36,52 31,56 25.0799607,56 L22,56 L22,61.9918199 C22,76.35441 33.9245135,88 48,88 L48,88 C56.2842712,88 63,78.8302631 63,67.5044491 L63,40 C56,40 48,33 48,24 L36,24 Z" id="Rectangle-5469-Copy" fill="#B5BFC0" sketch:type="MSShapeGroup"></path>
+                <path d="M8,35 C8,26.7157288 14.7173059,20 22.9994909,20 L42,20 L42,35 C42,43.2842712 35.2868613,50 26.9963368,50 L22.6601562,50 L8,50 L8,35 Z" id="Path-Copy-11" fill="#8DA1A3" sketch:type="MSShapeGroup"></path>
+                <path d="M86,35 C86,26.7157288 92.7173059,20 100.999491,20 L120,20 L120,35 C120,43.2842712 113.285518,50 105.004455,50 L98.5078125,50 L86,50 L86,35 Z" id="Path-Copy-13" fill="#8DA1A3" sketch:type="MSShapeGroup" transform="translate(103.000000, 35.000000) scale(-1, 1) translate(-103.000000, -35.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

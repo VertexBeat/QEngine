@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(-1536.000000, -768.000000)">
+            <g id="Buildings-House-C-15" sketch:type="MSLayerGroup" transform="translate(1536.000000, 768.000000)">
+                <rect id="Rectangle-2932" fill="#AD765F" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M0,112 L128,112 L128,126 L0,126 L0,112 Z M0,80 L128,80 L128,94 L0,94 L0,80 Z M0,48 L128,48 L128,62 L0,62 L0,48 Z M0,16 L128,16 L128,30 L0,30 L0,16 Z M0,96 L128,96 L128,110 L0,110 L0,96 Z M0,64 L128,64 L128,78 L0,78 L0,64 Z M0,32 L128,32 L128,46 L0,46 L0,32 Z M0,0 L128,0 L128,14 L0,14 L0,0 Z" id="Rectangle-2932-Copy-20" fill="#B9906C" sketch:type="MSShapeGroup"></path>
+                <path d="M40.029912,50 L0,50 L0,56 L34.029912,56 L40.029912,50 Z M87.9708244,50 L128,50 L128,56 L93.9708244,56 L87.9708244,50 Z" id="Rectangle-116-Copy-3" fill="#AD765F" sketch:type="MSShapeGroup"></path>
+                <path d="M81.9708244,44 L128,44 L128,0 L0,0 L0,44 L46.029912,44 L61.8766047,28.1533073 C63.0495269,26.9803851 64.9553576,26.9845332 66.1241317,28.1533073 L81.9708244,44 Z" id="Mask" fill="#CC4B2B" sketch:type="MSShapeGroup"></path>
+                <path d="M38.029912,50 L0,50 L0,44 L27.2942754,44 L27.2942754,44 C27.578595,43.5615792 27.9554451,43.1029423 28.4276032,42.6307843 L58.3426577,12.7157298 C61.4669739,9.59141351 66.5321947,9.59111676 69.6568077,12.7157298 L99.5718622,42.6307843 C100.04401,43.1029323 100.420825,43.5615707 100.705093,44 L128,44 L128,50 L89.9708244,50 L66.1241317,26.1533073 C64.9553576,24.9845332 63.0495269,24.9803851 61.8766047,26.1533073 L38.029912,50 Z" id="Rectangle-116-Copy-6" fill="#8D4323" sketch:type="MSShapeGroup"></path>
+                <path d="M91.6863373,53.7155129 L98.1158104,53.7155129 C99.7659837,53.7155129 100.170737,52.7684181 99.002436,51.6001174 L66.1159972,18.7136786 C64.9554112,17.5530926 63.0535068,17.5453779 61.8852062,18.7136786 L28.9987674,51.6001174 C27.8381813,52.7607035 28.2274225,53.7155129 29.885393,53.7155129 L36.3143991,53.7155129 L61.8766047,28.1533073 C63.0495269,26.9803851 64.9553576,26.9845332 66.1241317,28.1533073 L91.6863373,53.7155129 Z" id="Rectangle-116-Copy-8" fill="#AD765F" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

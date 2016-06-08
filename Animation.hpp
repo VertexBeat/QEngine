@@ -1,7 +1,7 @@
 #pragma once
 #include "Entity.hpp"
 #include <string>
-#include <SFML\Graphics.hpp>
+#include <SFML/Graphics.hpp>
 #include <map>
 
 class Animation

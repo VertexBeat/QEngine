@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-1279.000000, -127.000000)" id="Items-Weapon-Staff-03">
+            <g sketch:type="MSLayerGroup" transform="translate(1280.000000, 128.000000)">
+                <g id="Group" transform="translate(48.000000, 11.000000)" sketch:type="MSShapeGroup">
+                    <path d="M6.32141712,22.9908224 C6.14390335,19.1298978 9.125,16 12.9950294,16 L19.0049706,16 C22.8682186,16 25.8564585,19.1220268 25.6785829,22.9908224 L22.2294241,98.0100249 C22.1027167,100.765912 19.7710151,103 16.9978137,103 L15.0021863,103 C12.2395551,103 9.89710337,100.761998 9.77057586,98.0100249 L6.32141712,22.9908224 Z" id="Rectangle-5277-Copy-5" fill="#936956"></path>
+                    <path d="M3.68270089,17 C-0.244372636,17 -1.18014691,19.3180055 1.60085458,22.1859326 L10.9724789,31.8504853 C13.7497805,34.7145968 18.2489761,34.7184124 21.0299776,31.8504853 L30.4016019,22.1859326 C33.1789035,19.3218211 32.243783,17 28.3197556,17 L23.1118239,17 C19.1847504,17 12.81466,17 8.89063264,17 L3.68270089,17 L3.68270089,17 Z" id="Rectangle-5499-Copy" fill="#936956"></path>
+                    <path d="M3.68270089,1 C-0.244372636,1 -1.18014691,3.31800555 1.60085458,6.18593263 L10.9724789,15.8504853 C13.7497805,18.7145968 18.2489761,18.7184124 21.0299776,15.8504853 L30.4016019,6.18593263 C33.1789035,3.32182113 32.243783,1 28.3197556,1 L23.1118239,1 C19.1847504,1 12.81466,1 8.89063264,1 L3.68270089,1 L3.68270089,1 Z" id="Rectangle-5499-Copy-2" fill="#CC4B2B" transform="translate(16.000000, 9.500000) rotate(-180.000000) translate(-16.000000, -9.500000) "></path>
+                    <path d="M16,1.0000002 C14.1804663,0.999565058 12.3604826,1.71559299 10.9700224,3.14951471 L6.10100105,8.17072678 L11.9159567,18 C13.8718451,18 13.4361156,18 16,18 L16,1.0000002 Z" id="Rectangle-5499-Copy-4" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

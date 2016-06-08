@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-511.000000, -1151.000000)" id="Items-Crown">
+            <g sketch:type="MSLayerGroup" transform="translate(512.000000, 1152.000000)">
+                <circle id="Oval-1108-Copy-3" fill="#FEFFD4" sketch:type="MSShapeGroup" cx="30" cy="73" r="5"></circle>
+                <circle id="Oval-1108-Copy-4" fill="#FEFFD4" sketch:type="MSShapeGroup" cx="98" cy="73" r="5"></circle>
+                <path d="M28,45.009101 C28,40.5857967 29.6811839,40.1522198 31.7639505,44.0574072 L36.2360495,52.4425928 C38.3148219,56.3402912 41.6811839,56.3477802 43.7639505,52.4425928 L48.2360495,44.0574072 C50.3148219,40.1597088 53.6811839,40.1522198 55.7639505,44.0574072 L60.2360495,52.4425928 C62.3148219,56.3402912 65.6811839,56.3477802 67.7639505,52.4425928 L72.2360495,44.0574072 C74.3148219,40.1597088 77.6811839,40.1522198 79.7639505,44.0574072 L84.2360495,52.4425928 C86.3148219,56.3402912 89.6811839,56.3477802 91.7639505,52.4425928 L96.2360495,44.0574072 C98.3148219,40.1597088 100,40.5832346 100,45.009101 L100,81.9901243 C100,84.2047175 98.2022516,86 96.0005854,86 L31.9994146,86 C29.7905989,86 28,84.2125608 28,81.9901243 L28,45.009101 Z" id="Rectangle-5616" fill="#FFCF62" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-1108" fill="#FEFFD4" sketch:type="MSShapeGroup" cx="64" cy="73" r="5"></circle>
+                <circle id="Oval-1108-Copy" fill="#FEFFD4" sketch:type="MSShapeGroup" cx="41" cy="73" r="5"></circle>
+                <circle id="Oval-1108-Copy-2" fill="#FEFFD4" sketch:type="MSShapeGroup" cx="87" cy="73" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-127.000000, -767.000000)" id="Items-Food-Chicken">
+            <g sketch:type="MSLayerGroup" transform="translate(128.000000, 768.000000)">
+                <path d="M72,35 L72,54.9957423 C72,57.2072328 70.2126701,59 68.0068977,59 L61.9931023,59 C59.7877728,59 58,57.2109725 58,54.9957423 L58,35 C53.581722,35 50,31.4092877 50,27 C50,22.581722 53.5907123,19 58,19 C61.0118969,19 63.6350449,20.6686096 64.9998235,23.1276643 C66.3660179,20.666232 68.9926066,19 72,19 C76.418278,19 80,22.5907123 80,27 C80,31.418278 76.4092877,35 72,35 Z" id="Rectangle-5200-Copy-2" fill="#FEFFD4" sketch:type="MSShapeGroup"></path>
+                <path d="M51.4613921,68.5835469 C42.3208541,72.910536 36,82.2170978 36,93 C36,107.914967 48.0904697,120 63.00482,120 L66.99518,120 C81.9118993,120 94,107.911688 94,93 C94,82.2151285 87.6783778,72.909916 78.5385999,68.5834848 L76.5147267,52.9707489 C76.2309087,50.7812959 74.2048598,49 71.9904421,49 L58.0095579,49 C55.8003523,49 53.769549,50.7777649 53.4852733,52.9707489 L51.4613921,68.5835469 Z" id="Rectangle-5200" fill="#F3BA64" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-896.000000, -256.000000)" id="Items-Weapon-J">
+            <g sketch:type="MSLayerGroup" transform="translate(896.000000, 256.000000)">
+                <rect id="Rectangle-5282" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M37,45 C37,85.6783975 60.5047163,98.1511355 85.7838263,99.8024721 C87.8479969,99.9373123 92,95.4186198 92,93 L92,46" id="Path-1366" stroke="#FEFFD4" stroke-width="4" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-5277" fill="#936956" sketch:type="MSShapeGroup" x="54" y="62" width="20" height="50" rx="10"></rect>
+                <g id="Items-Weapons-J" transform="translate(22.000000, 29.000000)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-5277-Copy-6" fill="#936956" transform="translate(26.000000, 26.500000) rotate(-45.000000) translate(-26.000000, -26.500000) " x="18" y="-2" width="16" height="57" rx="8"></rect>
+                    <rect id="Rectangle-5277-Copy-8" fill="#FEFFD4" transform="translate(16.000000, 16.500000) rotate(-45.000000) translate(-16.000000, -16.500000) " x="8" y="14" width="16" height="5"></rect>
+                    <rect id="Rectangle-5277-Copy-7" fill="#936956" transform="translate(58.000000, 26.500000) rotate(-315.000000) translate(-58.000000, -26.500000) " x="50" y="-2" width="16" height="57" rx="8"></rect>
+                    <rect id="Rectangle-5277-Copy-9" fill="#FEFFD4" transform="translate(68.000000, 16.500000) rotate(45.000000) translate(-68.000000, -16.500000) " x="60" y="14" width="16" height="5"></rect>
+                    <path d="M70.4604888,60.9482833 C72.4153068,58.9934653 74,59.6551046 74,62.4038217 L74,70.00905 C74,72.7677398 71.7536675,75.0040996 69.0049504,75.0040996 L61.3997221,75.0040996 C58.6410323,75.0040996 57.9816252,73.4271469 59.9441837,71.4645884 L70.4604888,60.9482833 Z" id="Rectangle-5525" fill="#674C40"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Items" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g sketch:type="MSArtboardGroup" transform="translate(-1151.000000, -383.000000)" id="Items-Weapon-Crossbow">
+            <g sketch:type="MSLayerGroup" transform="translate(1152.000000, 384.000000)">
+                <rect id="Rectangle-5558" fill="#936956" sketch:type="MSShapeGroup" x="54" y="20" width="20" height="98" rx="10"></rect>
+                <rect id="Rectangle-1004" fill="#674C40" sketch:type="MSShapeGroup" x="54" y="66" width="20" height="4"></rect>
+                <g id="Shape-+-Shape-+-Oval-1038-Copy" transform="translate(64.500000, 44.000000) rotate(90.000000) translate(-64.500000, -44.000000) translate(38.000000, -4.000000)" sketch:type="MSShapeGroup">
+                    <path d="M44.5,8.49937496 L44.5,86.500625 L44.5,88.5 L48.5,88.5 L48.5,86.500625 L48.5,8.49937496 L48.5,6.5 L44.5,6.5 L44.5,8.49937496 L44.5,8.49937496 Z" id="Shape" fill="#FEFFD4"></path>
+                    <path d="M52.5,10.2636607 L52.5,0.208162114 L52.5,0.208162114 C51.0185064,0.0704171685 49.5174766,0 48,0 C21.490332,0 3.55271368e-15,21.490332 3.55271368e-15,48 C3.55271368e-15,74.509668 21.490332,96 48,96 C49.5174766,96 51.0185064,95.9295828 52.5,95.7918379 L52.5,85.7363393 C51.0242342,85.9104534 49.5225745,86 48,86 C27.0131795,86 10,68.9868205 10,48 C10,27.0131795 27.0131795,10 48,10 C49.5225745,10 51.0242342,10.0895466 52.5,10.2636607 Z" id="Mask" fill="#936956"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

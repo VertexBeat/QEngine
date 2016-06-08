@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="nature" sketch:type="MSArtboardGroup" transform="translate(-768.000000, -896.000000)">
+            <g id="Nature-Grass-04" sketch:type="MSLayerGroup" transform="translate(768.000000, 896.000000)">
+                <rect id="Mask-Copy-2" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M48,107.990754 C48,103.575599 44.418278,100 40,100 C35.5907123,100 32,103.577582 32,107.990754 L32,114.004739 C32,109.583644 28.418278,106 24,106 C19.5907123,106 16,109.583844 16,114.004739 L16,122.999887 C16,118.577742 12.418278,115 8,115 C3.59071231,115 0,118.581671 0,122.999887 L0,128 L128,128 L128,122.999887 C128,118.577742 124.418278,115 120,115 C115.590712,115 112,118.581671 112,122.999887 L112,113.991652 C112,109.580076 108.418278,106 104,106 C99.5907123,106 96,109.577985 96,113.991652 L95.9999999,121.998855 C95.9993801,117.590091 92.4178957,114 88,114 C83.5913035,114 80.0009628,117.580762 80,121.998224 L80,110.00004 C80,105.588903 76.418278,102 72,102 C67.5907123,102 64,105.58174 64,110.00004 L64,116.004739 C64,111.583644 60.418278,108 56,108 C51.5907123,108 48,111.583844 48,116.004739 L48,107.990754 Z" id="Path" fill="#9BCA6A" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

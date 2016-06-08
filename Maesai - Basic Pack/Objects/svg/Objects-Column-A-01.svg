@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tileset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="objects" sketch:type="MSArtboardGroup" transform="translate(-256.000000, -384.000000)">
+            <g id="Objects-Column-A-01" sketch:type="MSLayerGroup" transform="translate(256.000000, 384.000000)">
+                <rect id="Rectangle-920" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <path d="M34.1714286,110 C34.1714286,106.686292 36.8506678,104 40.1647277,104 L87.8352723,104 C91.14528,104 93.8285714,106.693034 93.8285714,110 C93.8285714,113.313708 91.1493322,116 87.8352723,116 L40.1647277,116 C36.85472,116 34.1714286,113.306966 34.1714286,110 Z M28,122 C28,118.686292 30.6910787,116 33.9994344,116 L94.0005656,116 C97.3139617,116 100,118.693034 100,122 C100,125.313708 97.3089213,128 94.0005656,128 L33.9994344,128 C30.6860383,128 28,125.306966 28,122 Z" id="Rectangle-20-Copy-72" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <rect id="Path" fill="#FFFFFF" sketch:type="MSShapeGroup" x="40" y="28" width="48" height="96"></rect>
+                <path d="M64,44 C77.254834,44 88,36.836556 88,28 C88,19.163444 77.254834,12 64,12 C50.745166,12 40,19.163444 40,28 C40,36.836556 50.745166,44 64,44 Z" id="Oval-109-Copy-2" fill="#E1FFF4" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
