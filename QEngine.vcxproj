@@ -130,6 +130,7 @@
     <ClCompile Include="BoxObject.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="Player.cpp" />
+    <ClCompile Include="QUtil.cpp" />
     <ClCompile Include="SFMLDebugDraw.cpp" />
     <ClCompile Include="EntityManager.cpp" />
     <ClCompile Include="Entity.cpp" />
@@ -146,6 +147,7 @@
     <ClInclude Include="BoxObject.hpp" />
     <ClInclude Include="Game.hpp" />
     <ClInclude Include="Player.hpp" />
+    <ClInclude Include="QUtil.hpp" />
     <ClInclude Include="SFMLDebugDraw.hpp" />
     <ClInclude Include="EntityManager.hpp" />
     <ClInclude Include="Entity.hpp" />

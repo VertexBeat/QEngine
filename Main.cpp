@@ -19,13 +19,13 @@ int main()
 
 void TestGameLoop() {
 	sf::RenderWindow window(sf::VideoMode(1920, 1080), "My window");
-	g_pTiledLoader->loadLevel("level/levelOne.tmx");
+	g_pTiledLoader->loadLevel("assets/level/testTiles.tmx");
 	g_pTiledLoader->setScrollDirection(TiledLoader::SCROLLDIRECTION::x);
-	std::multimap<int,Tile> map = g_pTiledLoader->saveAsTileLayer("lava");
+	std::multimap<int,Tile> map = g_pTiledLoader->saveAsTileLayer("terrain");
 	std::vector<Tile> renderVec;
 
 	int startX = 0;
-	int endX = 500;
+	int endX = 960;
 	for (std::multimap<int,Tile>::iterator it = map.begin(); it != map.end(); it++) {
 		if (it->first >= startX && it->first <= endX) {
 			renderVec.push_back(it->second);

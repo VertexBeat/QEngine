@@ -58,9 +58,10 @@ void TextureManager::CountTextures()
 	std::cout << "We count " << _textureMap.size() << " Textures" << std::endl;
 }
 
-const sf::Texture& TextureManager::GetTexture(std::string id)
+const sf::Texture& TextureManager::GetTexture(std::string tag)
 {
-	auto found = _textureMap.find(id);
+	auto found = _textureMap.find(tag);
+	std::cout << "Texture-ID: " << tag << std::endl;
 	assert(found != _textureMap.end());
 	
 	return *found->second;

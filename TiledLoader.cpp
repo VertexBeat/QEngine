@@ -1,7 +1,7 @@
 #include "TiledLoader.hpp"
 #include "TextureManager.hpp"
 #include <iostream>
-
+#include "QUtil.hpp"
 
 
 
@@ -71,25 +71,28 @@ std::multimap<int, Tile> TiledLoader::saveAsTileLayer(const char* layerName)
 				int id = atoi(gid);
 
 				// map-tile-sorting-logic
-				if (rowCounter < nWidth) {
+				rowVerifier = rowCounter + 1;
+				if (rowVerifier < nWidth) {
 					// init tile with position/dimension and bind texture to it`s sprite
 					int posX = rowCounter * m_TileWidth;
 					int posY = columnCounter * m_TileHeight;
-					Tile tmpTile(posX, posY, m_TileWidth, m_TileHeight, false);
-					std::cout << "Counter: " << counter << "X: " << posX << ", Y: " << posY << std::endl;
-					counter++;
-					tmpTile.loadTexture(getGidTexture(id));
+					if (id != 0) {
+						Tile tmpTile(posX, posY, m_TileWidth, m_TileHeight, false);
+						std::cout << "Counter: " << counter << "X: " << posX << ", Y: " << posY << std::endl;
+						counter++;
+						tmpTile.loadTexture(getGidTexture(id));
 
-					// insert and sort tiles
-					if (m_ScrollDirection == x)
-					{
-						map.insert(std::make_pair(posX, tmpTile));
-					} else {
-						map.insert(std::make_pair(posY, tmpTile));
+						// insert and sort tiles
+						if (m_ScrollDirection == x)
+						{
+							map.insert(std::make_pair(posX, tmpTile));
+						}
+						else {
+							map.insert(std::make_pair(posY, tmpTile));
+						}
 					}
 
 					// modify Counter, map is working properly (not be able to use for-loop in this case -> solution with if-else necessaary)
-					rowVerifier = rowCounter + 1;
 					if (rowVerifier < nWidth) {
 						rowCounter++;
 					}
@@ -201,28 +204,28 @@ void TiledLoader::getTileDimension()
 
 const sf::Texture& TiledLoader::getGidTexture(int gid)
 {
-	int nTextureFinder = gid;
-	std::map<int, std::string>::iterator i = m_TextureIdentificationMap.find(nTextureFinder);
-	std::string resultTag;
-	if (i == m_TextureIdentificationMap.end()) {
-		//not found
-	}
-	else {
-		// found
-		resultTag = i->second;
-	}
+	int nTextureFinder = --gid;
+		std::map<int, std::string>::iterator i = m_TextureIdentificationMap.find(nTextureFinder);
+		std::string resultTag;
+		if (i == m_TextureIdentificationMap.end()) {
+			//not found
+		}
+		else {
+			// found
+			resultTag = i->second;
+		}
 
-	std::map<std::string, std::string>::iterator it = m_AssetMap.find(resultTag);
-	std::string resultPath;
-	if (it == m_AssetMap.end()) {
-		//not found
-	}
-	else {
-		// found
-		resultPath = it->second;
-		//std::cout << "load Texture=[" + resultPath + "] succeeded\n" << std::endl;
-	}
-
+		std::map<std::string, std::string>::iterator it = m_AssetMap.find(resultTag);
+		std::string resultPath;
+		if (it == m_AssetMap.end()) {
+			//not found
+		}
+		else {
+			// found
+			resultPath = it->second;
+			//std::cout << "load Texture=[" + resultPath + "] succeeded\n" << std::endl;
+		}
+	// search with splitted path (last part) as resultTag!
 	return g_pTextureManager->GetTexture(resultTag);
 }
 
@@ -230,12 +233,11 @@ void TiledLoader::loadMapTextures()
 {
 	for (tinyxml2::XMLElement* e = m_Doc.FirstChildElement()->FirstChildElement("tileset")->FirstChildElement("tile"); e != NULL; e = e->NextSiblingElement("tile"))
 	{
+		QUtil util;
 
 		// get tile id for textureManagement
 		const char* tagId = nullptr;
 		tagId = e->Attribute("id");
-		tagId++;
-		// tile-ids starting with 1, not zero! So tile-id matching is possible!
 		// --------------------------------
 
 		// get all available filepaths for textures
@@ -245,7 +247,8 @@ void TiledLoader::loadMapTextures()
 		sourceValue = source->Attribute("source");
 		// --------------------------------------
 
-		// Get Id of fileSource
+		//util.splitString("/", "assets/");
+		// Get texture-tag of fileSource
 		std::string s = "";
 		s = sourceValue;
 		std::string delimiter = "/";
@@ -258,10 +261,17 @@ void TiledLoader::loadMapTextures()
 			fileIds.push_back(token);
 			s.erase(0, pos + delimiter.length());
 		}
+		fileIds.push_back(s);
+		//temporary
+		//---------
+
+		std::string filePath = "assets/" + fileIds[1] + "/" + fileIds[2];
+		std::cout << filePath << std::endl;
+
 		// ---------------------
 
 		// save the results in strings and int
-		std::string sSource = sourceValue;
+		std::string sSource = filePath;
 		std::string sTextureId = s;
 		int id = atoi(tagId);
 		// ----------------------------------
