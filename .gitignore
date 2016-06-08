@@ -246,7 +246,7 @@ ModelManifest.xml
 
 # assets
 assets/
-Maesai - Adventure Pack/
-Maesai - Basic Pack/
-Maesai - Scary Pack/
+adventure/
+basic/
+scary/
 .vs/
