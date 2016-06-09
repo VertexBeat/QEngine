@@ -23,6 +23,15 @@ Player::Player(float x, float y)
 	InitBox2d();
 }
 
+Player::Player()
+{
+	m_Position.x = 0.f;
+	m_Position.y = 0.f;
+	m_Type = BODYTYPE::dynamicBody;
+	setAsBox(m_Position.x, m_Position.y);
+	InitBox2d();
+}
+
 
 Player::~Player()
 {

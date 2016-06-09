@@ -1,7 +1,4 @@
 #include "World.hpp"
-#include "BoxObject.hpp"
-#include "SFMLDebugDraw.hpp"
-#include <Box2D\Box2D.h>
 
 
 
@@ -9,9 +6,13 @@ World::World()
 {
 	// create new box2d world with gravity enabled
 	b2Vec2 gravity(0.f, 9.8f);
-
+	m_pScene = nullptr;
 	m_pWorld = std::make_unique<b2World>(gravity);
 	m_pWorld->SetAllowSleeping(false);
+}
+
+World::~World()
+{
 }
 
 void World::updateGravity(int level)
@@ -25,8 +26,8 @@ void World::updatePhysiX(sf::Time deltaTime)
 	m_pWorld->Step(seconds, 8, 3);
 }
 
-
-World::~World()
+void World::loadScene(Scene* scene)
 {
+	m_pScene = scene;
 }
 

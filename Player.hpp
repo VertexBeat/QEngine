@@ -15,6 +15,7 @@ public:
 	// initiates player with controller id to identify, which controls he uses!
 	Player(int controllerId);
 	Player(float x, float y);
+	Player();
 	~Player();
 public:
 	void move(float movement);
