@@ -18,13 +18,18 @@ int main()
 }
 
 void TestGameLoop() {
-	sf::RenderWindow window(sf::VideoMode(1920, 1080), "My window");
-	g_pTiledLoader->loadLevel("assets/level/testTiles.tmx");
+	sf::RenderWindow window(sf::VideoMode(1920, 1080), "QEngine");
+	// load level testTiles.tmx and apply scaling on tiles, so they fit in the window!
+	g_pTiledLoader->loadLevel("assets/level/testTiles.tmx",0.84375);
+	// set the scrolldirection -> how the game is going to be scrolled -> we are mapping the values of x/y depending on that!
 	g_pTiledLoader->setScrollDirection(TiledLoader::SCROLLDIRECTION::x);
-	std::multimap<int,Tile> map = g_pTiledLoader->saveAsTileLayer("terrain");
+	// get TileLayer and put them into a mulimap, so we have access to every tile over his x/y position!
+	std::multimap<int,Tile> map = g_pTiledLoader->saveAsTileLayer("water");
+	// render-vector, we put all of the found map-files into the renderVec for draw-calls later!
 	std::vector<Tile> renderVec;
 
-	int startX = 0;
+	// map-search-algorithmus for searching specific x/y-values as key and pushing all the tiles in range into !
+	int startX = 200;
 	int endX = 960;
 	for (std::multimap<int,Tile>::iterator it = map.begin(); it != map.end(); it++) {
 		if (it->first >= startX && it->first <= endX) {

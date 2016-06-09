@@ -29,6 +29,8 @@ public:
 	sf::Sprite render();
 	// set PixelConversion
 	void setBox2dConverter(float conversionRate);
+	void scale(float scaling);
+	sf::Sprite getSprite() { return m_sprite; };
 
 	// TEST-AREA!!!!
 	std::string getFilePath() { return m_filePath; };

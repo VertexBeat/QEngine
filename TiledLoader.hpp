@@ -31,6 +31,7 @@ public:
 
 	// loads tmx-file into m_Doc
 	void loadLevel(const char* fileName);
+	void loadLevel(const char* fileName, float scaling);
 
 	// set the scrolldirection(it defines, how the multimaps of the layers get ordered)
 	void setScrollDirection(SCROLLDIRECTION direction);
@@ -45,6 +46,7 @@ public:
 	//std::multimap<int,BoxObject> saveAsPhysXLayer(std::string layerName);
 private:
 	//map
+	void rescale(float scaling);
 	int m_TileWidth;
 	int m_TileHeight;
 	void getTileDimension();

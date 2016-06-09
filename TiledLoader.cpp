@@ -14,6 +14,7 @@ TiledLoader::~TiledLoader()
 {
 }
 
+// load xml-level -----------------------------------------------
 void TiledLoader::loadLevel(const char * fileName)
 {
 	if (!m_Doc.LoadFile(fileName))
@@ -30,17 +31,43 @@ void TiledLoader::loadLevel(const char * fileName)
 		printf("load file=[%s] failed\n", fileName);
 	}
 }
+// -------------------------------------------------------------
 
+// load xml-level -----------------------------------------------
+void TiledLoader::loadLevel(const char * fileName, float scaling)
+{
+	if (!m_Doc.LoadFile(fileName))
+	{
+		// if file is found, ... proceed
+		printf("load file=[%s] succeeded\n", fileName);
+		// get tile-dimension for rendering
+		getTileDimension();
+		rescale(scaling);
+		//load all textures into TextureManager
+		loadMapTextures();
+	}
+	else
+	{
+		printf("load file=[%s] failed\n", fileName);
+	}
+}
+// ---------------------------------------------------------------
+
+// set scroll-direction for map-sorting---------------------------
 void TiledLoader::setScrollDirection(SCROLLDIRECTION direction)
 {
 	m_ScrollDirection = direction;
 }
+// ---------------------------------------------------------------
 
+// prepare layer with parameter as name into multimap for next word-rendering
 std::multimap<int, Tile> TiledLoader::saveAsTileLayer(const char* layerName)
 {
+	// get first layer-element in xml 
 	tinyxml2::XMLElement* layer = m_Doc.FirstChildElement()->FirstChildElement("layer");
 	std::multimap<int, Tile> map;
 
+	// looping through all xml-layer-elements (tilesets) to recieve the right layer of parameter
 	for (tinyxml2::XMLElement* e = layer; e != NULL; e = e->NextSiblingElement("layer"))
 	{
 		// get number of tiles in x-row
@@ -53,34 +80,43 @@ std::multimap<int, Tile> TiledLoader::saveAsTileLayer(const char* layerName)
 		layerY = e->Attribute("height");
 		int nHeight = atoi(layerX);
 
+		// get name of layer
 		const char* name = nullptr;
 		name = e->Attribute("name");
 
+		// check if layerName parameter is same as 
+		// layerName of current for-loop-result-layer
 		if (*name == *layerName)
 		{
+			// 
 			int rowCounter = 0;
 			int columnCounter = 0;
 			int rowVerifier;
-			int counter = 0;
-			// nHeight, nWidth
-			for (tinyxml2::XMLElement* f = layer->FirstChildElement("data")->FirstChildElement("tile"); f != NULL; f = f->NextSiblingElement("tile")) 
+
+			// loop through every tile element to get gid
+			for (tinyxml2::XMLElement* f = e->FirstChildElement("data")->FirstChildElement("tile"); f != NULL; f = f->NextSiblingElement("tile")) 
 			{
-				// get id for current tile-item
+				// get gid for current tile-item to determine, 
+				// which tile-texture should be used
 				const char* gid = nullptr;
 				gid = f->Attribute("gid");
 				int id = atoi(gid);
 
 				// map-tile-sorting-logic
+				// --------------------
 				rowVerifier = rowCounter + 1;
+
 				if (rowVerifier < nWidth) {
+
 					// init tile with position/dimension and bind texture to it`s sprite
 					int posX = rowCounter * m_TileWidth;
 					int posY = columnCounter * m_TileHeight;
 					if (id != 0) {
 						Tile tmpTile(posX, posY, m_TileWidth, m_TileHeight, false);
-						std::cout << "Counter: " << counter << "X: " << posX << ", Y: " << posY << std::endl;
-						counter++;
 						tmpTile.loadTexture(getGidTexture(id));
+
+						// scale texture of tile to m_TileWidth/m_TileHeight
+						tmpTile.scale(m_TileWidth / tmpTile.getSprite().getGlobalBounds().width);
 
 						// insert and sort tiles
 						if (m_ScrollDirection == x)
@@ -98,6 +134,7 @@ std::multimap<int, Tile> TiledLoader::saveAsTileLayer(const char* layerName)
 					}
 				}
 				else {
+					// analyse next column and start parsing items
 					rowCounter = 0;
 					columnCounter++;
 				}
@@ -105,14 +142,12 @@ std::multimap<int, Tile> TiledLoader::saveAsTileLayer(const char* layerName)
 		} else {
 			std::cout << "Not workin!" << std::endl;
 		}
-		std::string nameS = layerName;
-		std::cout << "TileLayer[" << nameS << "] loaded!" << std::endl;
-		std::cout << "Map-Size: " << map.size() << std::endl;
-		return map;
 	}
 
-	return std::multimap<int, Tile>();
+	// return map with tiles of layerName
+	return map;
 }
+// ---------------------------------------------------------------
 
 std::multimap<int, sf::Sprite> TiledLoader::saveAsObjectLayer(std::string layerName)
 {
@@ -189,6 +224,12 @@ std::multimap<int, sf::Sprite> TiledLoader::saveAsObjectLayer(std::string layerN
 			}
 		}
 	}
+}
+
+void TiledLoader::rescale(float scaling)
+{
+	m_TileHeight *= scaling;
+	m_TileWidth *= scaling;
 }
 
 void TiledLoader::getTileDimension()

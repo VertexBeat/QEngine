@@ -123,11 +123,16 @@ sf::Sprite Tile::render()
 	}
 	else {
 		m_sprite.setPosition(m_b2Position.x + m_b2Dimension.x / 2, m_b2Position.y - m_b2Dimension.y / 2);
+		//m_sprite.setOrigin(0, 0);
 	}
 	return m_sprite;
 }
 void Tile::setBox2dConverter(float conversionRate)
 {
 	m_box2dPixelConversion = conversionRate;
+}
+void Tile::scale(float scaling)
+{
+	m_sprite.scale(m_sprite.getScale() * scaling);
 }
 //----------------------------------
